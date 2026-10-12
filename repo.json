@@ -206,16 +206,16 @@
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "강아지DOG",
       "subtitle": "광고 제거 0.7.1",
-      "localizedDescription": "말 그대로 네이버 카페 앱내에 광고를 제거한 IPA 입니다.",
+      "localizedDescription": "말 그대로 네이버 카페 앱내에 광고와 웹뷰를 제거한 IPA 입니다.",
       "iconURL": "https://i.imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "26.1005.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/gf4n456vbhtnchdt7r5v6/0.7.1_-_v26.1005.0.ipa?rlkey=05e7kdn2ee3b53ncgzi6cpqh8&st=s3yytd40&dl=1",
+          "downloadURL": "https://www.dropbox.com/scl/fi/ducu2s0u40dksrihwr1a2/_v26.1005.0.ipa?rlkey=i9wfmkxoopto1y70cb9u5esn1&st=jmx1mzbu&dl=1",
           "size": 183500800,
-          "localizedDescription": "< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "- 웹뷰 제거\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         }
       ]
     },
