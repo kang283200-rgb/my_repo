@@ -9,7 +9,7 @@
       "developerName": "YTKace",
       "subtitle": "YouTube for iPhone and iPad",
       "localizedDescription": "YouTube 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/youtube.png",
+      "iconURL": "https://raw.githubusercontent.com/kang283200/sidestore-repo/main/icons/youtube.png",
       "tintColor": "#FF0000",
       "versions": [
         {
@@ -42,7 +42,43 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
+      "developerName": "멀티 (26.8.4)",
+      "subtitle": "카카오톡 메신저",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "tintColor": "#FFE812",
+      "versions": [
+        {
+          "version": "26.8.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "size": 293601280,
+          "localizedDescription": "카카오톡 최신 IPA"
+        }
+      ]
+    },
+    {
+      "name": "카카오톡",
+      "bundleIdentifier": "com.kakao.KakaoTalk",
       "developerName": "메인 광고 제거(26.8.0)",
+      "subtitle": "카카오톡 메신저",
+      "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "tintColor": "#FFE812",
+      "versions": [
+        {
+          "version": "26.8.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "size": 293601280,
+          "localizedDescription": "카카오톡 최신 IPA"
+        }
+      ]
+    },
+    {
+      "name": "카카오톡",
+      "bundleIdentifier": "com.kakao.KakaoTalk",
+      "developerName": "멀티 광고 제거(26.8.0)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
