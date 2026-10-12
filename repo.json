@@ -218,6 +218,24 @@
           "localizedDescription": ""
         }
       ]
+    },
+    {
+      "name": "Goodnotes",
+      "bundleIdentifier": "com.goodnotesapp.x",
+      "developerName": "Goodnotes Limited",
+      "subtitle": "AI Notes, Docs, PDF",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/TpWhB1Q.png",
+      "tintColor": "#FFE812",
+      "versions": [
+        {
+          "version": "7.1.21",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/lmqpy2pmawi3ry8uc86uf/Goodnotes_v7.1.27-unlock.ipa?rlkey=hufrb8ij2bo5rgamrbmgcsyy9&st=zpo7v781&dl=1",
+          "size": 293601280,
+          "localizedDescription": ""
+        }
+      ]
     }
   ]
 }
