@@ -135,7 +135,7 @@
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "Aron",
       "subtitle": "광고 제거",
-      "localizedDescription": "광고 제거 네이버카페",
+      "localizedDescription": "<광고 제거 목록>\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고",
       "iconURL": "https://imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
       "versions": [
