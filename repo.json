@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
-  "name": "강아지DOG Repo",
+  "name": "Aron Repository",
   "identifier": "com.jamesday.sidestore.repo",
   "iconURL": "https://imgur.com/JjodWCZ.png",
   "news": [
