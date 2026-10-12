@@ -58,6 +58,42 @@
       ]
     },
     {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "dayanch96",
+      "subtitle": "YTMusicUltimate",
+      "localizedDescription": "YTMusicUltimate",
+      "iconURL": "https://imgur.com/YiU7XqB.png",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "9.41",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/swc1obqxekmr4n2givu99/YouTube-Music_v9.41.ipa?rlkey=mjrk94nxybvo8mesfhpqmg3zd&st=dgbz2o7j&dl=1",
+          "size": 183500800,
+          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
+        }
+      ]
+    },
+    {
+      "name": "SoundCloud",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "NexaSC",
+      "subtitle": "SoundCloud",
+      "localizedDescription": "e",
+      "iconURL": "https://imgur.com/vBPvnxn.png",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "8.82.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/meuwfnzv78apuf9do833f/SoundCloud-8.82.0-NexaSC.ipa?rlkey=tj1my3rwju3lrmtp1bui2mint&st=f7jdsx66&dl=1",
+          "size": 183500800,
+          "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
+        }
+      ]
+    },
+    {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "faroukbmiled",
@@ -161,7 +197,7 @@
           "date": "2026-10-12",
           "downloadURL": "https://www.dropbox.com/scl/fi/gf4n456vbhtnchdt7r5v6/0.7.1_-_v26.1005.0.ipa?rlkey=05e7kdn2ee3b53ncgzi6cpqh8&st=2cyj4kc2&dl=1",
           "size": 183500800,
-          "localizedDescription": "<광고 제거 목록>\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         }
       ]
     },
