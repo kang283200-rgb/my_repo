@@ -2,7 +2,7 @@
   "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
   "name": "My Personal Repo",
   "identifier": "com.jamesday.sidestore.repo",
-  "iconURL": "https://imgur.com/P5CCVCP.png",
+  "iconURL": "https://imgur.com/JjodWCZ.png",
   "apps": [
     {
       "name": "YouTube (YTKace)",
@@ -54,7 +54,7 @@
           "date": "2026-10-12",
           "downloadURL": "https://www.dropbox.com/scl/fi/083p4bkwmuqxmhgmcal7w/RyukGram_noplugins_v1.4.5_IG449.0.0.ipa?rlkey=ltukj6vz2ez2yv1pn9udyuc7s&st=rur7c741&dl=1",
           "size": 335544320,
-          "localizedDescription": "Instagram"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
         }
       ]
     },
@@ -72,7 +72,7 @@
           "date": "2026-10-12",
           "downloadURL": "https://www.dropbox.com/scl/fi/7qvma8mkkomwzm2zep12q/RyukGram_plugins_v1.4.5_IG449.0.0.ipa?rlkey=w6gpguxk0jnvdjeldxl01pir1&st=sg6fqmrv&dl=1",
           "size": 335544320,
-          "localizedDescription": "Instagram"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
         }
       ]
     },
