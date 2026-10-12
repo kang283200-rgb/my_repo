@@ -1,0 +1,79 @@
+{
+  "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
+  "name": "My Personal Repo",
+  "identifier": "com.jamesday.sidestore.repo",
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "YTKace",
+      "subtitle": "YouTube for iPhone and iPad",
+      "localizedDescription": "YouTube 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/youtube.png",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "21.41.5",
+          "date": "2026-10-12",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/YouTube.ipa",
+          "size": 193986560,
+          "localizedDescription": "YouTube (YTKace 1.1.3)"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "사이드스토어",
+      "subtitle": "Share photos and videos",
+      "localizedDescription": "Instagram 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/instagram.png",
+      "tintColor": "#E1306C",
+      "versions": [
+        {
+          "version": "410.0.0",
+          "date": "2026-10-06",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/Instagram.ipa",
+          "size": 335544320,
+          "localizedDescription": "Instagram 최신 IPA"
+        }
+      ]
+    },
+    {
+      "name": "카카오톡",
+      "bundleIdentifier": "com.kakao.KakaoTalk",
+      "developerName": "메인 광고 제거(26.8.0)",
+      "subtitle": "카카오톡 메신저",
+      "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "tintColor": "#FFE812",
+      "versions": [
+        {
+          "version": "26.8.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "size": 293601280,
+          "localizedDescription": "카카오톡 최신 IPA"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google LLC",
+      "subtitle": "Music streaming from YouTube",
+      "localizedDescription": "YouTube Music 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/youtubemusic.png",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "8.47.2",
+          "date": "2026-10-06",
+          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/YouTubeMusic.ipa",
+          "size": 183500800,
+          "localizedDescription": "YouTube Music 최신 IPA"
+        }
+      ]
+    }
+  ]
+}
