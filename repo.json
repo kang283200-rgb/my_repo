@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
-  "name": "My Personal Repo",
+  "name": "강아지DOG Repo",
   "identifier": "com.jamesday.sidestore.repo",
   "iconURL": "https://imgur.com/JjodWCZ.png",
   "apps": [
@@ -133,7 +133,7 @@
     {
       "name": "네이버 카페",
       "bundleIdentifier": "com.nhncorp.navercafe",
-      "developerName": "Aron",
+      "developerName": "강아지DOG",
       "subtitle": "광고 제거",
       "localizedDescription": "말 그대로 네이버 카페 앱내에 광고를 제거한 IPA 입니다.",
       "iconURL": "https://imgur.com/hs4FJKd.png",
