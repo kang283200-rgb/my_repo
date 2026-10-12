@@ -4,20 +4,38 @@
   "identifier": "com.jamesday.sidestore.repo",
   "apps": [
     {
-      "name": "YouTube",
+      "name": "YouTube (YTKace)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "YTKace",
       "subtitle": "YouTube for iPhone and iPad",
-      "localizedDescription": "YouTube 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
-      "iconURL": "https://raw.githubusercontent.com/kang283200/sidestore-repo/main/icons/youtube.png",
+      "localizedDescription": "",
+      "iconURL": "https://imgur.com/a/fdK8G2x",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "21.41.5",
           "date": "2026-10-12",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/YouTube.ipa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/bm86g0r0rqz27cxc5bh8f/YTKACE_1.1.3_YouTube_21.41.5.ipa?rlkey=v44mfuuzy4sccmrtr2brm4iky&st=93xizkeo&dl=1",
           "size": 193986560,
-          "localizedDescription": "YouTube (YTKace 1.1.3)"
+          "localizedDescription": "YTKace 1.1.3"
+        }
+      ]
+    },
+    {
+      "name": "YouTube (YTPlus)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "YTPlus 6.0 b2",
+      "subtitle": "YouTube for iPhone and iPad",
+      "localizedDescription": "",
+      "iconURL": "https://imgur.com/a/fdK8G2x",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "21.41.5",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/doz8u26x4xk0ysuu0ken7/YouTube-21.39.4-YTPlus-6.0-B2.ipa?rlkey=odfc6302dry58z98dgp58os2t&st=1vk35ttx&dl=1",
+          "size": 193986560,
+          "localizedDescription": "YTKace 1.1.3"
         }
       ]
     },
@@ -25,17 +43,35 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "사이드스토어",
-      "subtitle": "Share photos and videos",
-      "localizedDescription": "Instagram 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/instagram.png",
+      "subtitle": "S",
+      "localizedDescription": "",
+      "iconURL": "https://imgur.com/a/MWrxd98",
       "tintColor": "#E1306C",
       "versions": [
         {
-          "version": "410.0.0",
-          "date": "2026-10-06",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/Instagram.ipa",
+          "version": "449.0.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/083p4bkwmuqxmhgmcal7w/RyukGram_noplugins_v1.4.5_IG449.0.0.ipa?rlkey=ltukj6vz2ez2yv1pn9udyuc7s&st=rur7c741&dl=1",
           "size": 335544320,
-          "localizedDescription": "Instagram 최신 IPA"
+          "localizedDescription": "Instagram"
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "유료인증서",
+      "subtitle": "Share photos and videos",
+      "localizedDescription": "",
+      "iconURL": "https://imgur.com/a/MWrxd98",
+      "tintColor": "#E1306C",
+      "versions": [
+        {
+          "version": "449.0.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/7qvma8mkkomwzm2zep12q/RyukGram_plugins_v1.4.5_IG449.0.0.ipa?rlkey=w6gpguxk0jnvdjeldxl01pir1&st=sg6fqmrv&dl=1",
+          "size": 335544320,
+          "localizedDescription": "Instagram"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "developerName": "멀티 (26.8.4)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "iconURL": "https://imgur.com/gbrUboG",
       "tintColor": "#FFE812",
       "versions": [
         {
@@ -63,7 +99,7 @@
       "developerName": "메인 광고 제거(26.8.0)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "iconURL": "https://imgur.com/gbrUboG",
       "tintColor": "#FFE812",
       "versions": [
         {
@@ -81,7 +117,7 @@
       "developerName": "멀티 광고 제거(26.8.0)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/kakaotalk.png",
+      "iconURL": "https://imgur.com/gbrUboG",
       "tintColor": "#FFE812",
       "versions": [
         {
@@ -94,18 +130,18 @@
       ]
     },
     {
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google LLC",
-      "subtitle": "Music streaming from YouTube",
-      "localizedDescription": "YouTube Music 앱을 SideStore와 Feather에서 설치할 수 있도록 제공하는 개인용 소스입니다.",
-      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/icons/youtubemusic.png",
+      "name": "네이버 카페",
+      "bundleIdentifier": "com.nhncorp.navercafe",
+      "developerName": "Naver Corp.",
+      "subtitle": "네이버",
+      "localizedDescription": "광고 제거 네이버카페",
+      "iconURL": "https://imgur.com/hs4FJKd",
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "8.47.2",
-          "date": "2026-10-06",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/YouTubeMusic.ipa",
+          "version": "26.1005.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/gf4n456vbhtnchdt7r5v6/0.7.1_-_v26.1005.0.ipa?rlkey=05e7kdn2ee3b53ncgzi6cpqh8&st=2cyj4kc2&dl=1",
           "size": 183500800,
           "localizedDescription": "YouTube Music 최신 IPA"
         }
