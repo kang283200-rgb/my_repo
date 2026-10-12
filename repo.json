@@ -79,7 +79,7 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.",
+      "developerName": "Kakao Corp.",
       "subtitle": "순정 멀티 카카오톡",
       "localizedDescription": "",
       "iconURL": "https://imgur.com/gbrUboG.png",
@@ -88,7 +88,7 @@
         {
           "version": "26.8.4",
           "date": "2026-10-12",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/qjqrzy9f2lj98spgjjt53/26.8.4.ipa?rlkey=j48kiqjvz5ne4xv3niw9hspci&st=2qo1sw75&dl=1",
           "size": 293601280,
           "localizedDescription": "멀티 카카오톡"
         }
@@ -97,7 +97,7 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.",
+      "developerName": "Kakao Corp.",
       "subtitle": "광고제거 메인 카카오톡",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
@@ -106,7 +106,7 @@
         {
           "version": "26.8.0",
           "date": "2026-10-12",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/685c0k9nh0k2z0wr9kvir/26.8.0.ipa?rlkey=9guosqo1vh9cias3p5gfpzk5x&st=4n9gxoym&dl=1",
           "size": 293601280,
           "localizedDescription": "광고제거 메인 카카오톡 (26.8.0)"
         }
@@ -115,7 +115,7 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.",
+      "developerName": "Kakao Corp.",
       "subtitle": "광고제거 멀티 카카오톡",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
@@ -124,7 +124,7 @@
         {
           "version": "26.8.0",
           "date": "2026-10-12",
-          "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/b3rl5t0j2ct7mwcwgywaz/26.8.0.ipa?rlkey=tk2via99df1fvri6s6325p1kv&st=3b0owwfz&dl=1",
           "size": 293601280,
           "localizedDescription": "광고제거 멀티 카카오톡 (26.8.0)"
         }
@@ -147,6 +147,24 @@
           "localizedDescription": "<광고 제거 목록>\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         }
       ]
-    }
+    },
+    {
+      "name": "Photomator",
+      "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch.x.photo",
+      "developerName": "Apple Inc.",
+      "subtitle": "Photo-editor",
+      "localizedDescription": "",
+      "iconURL": "https://imgur.com/IeKF7Pj.png",
+      "tintColor": "#FFE812",
+      "versions": [
+        {
+          "version": "3.4.15",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/dyc2ir1j1w9tnjhsqwsfo/Photomator3.4.15-LifetimeUnlocked.ipa?rlkey=916zood99kamc9lbi98xzlloc&st=4vm2dk0u&dl=1",
+          "size": 293601280,
+          "localizedDescription": ""
+        }
+      ]
+    },
   ]
 }
