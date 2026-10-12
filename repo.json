@@ -15,7 +15,7 @@
     {
       "title": "네이버카페 26.1005.0 업데이트",
       "identifier": "news-navercafe-26.1005.0",
-      "caption": "광고제거 네이버 카페 IPA입니다.",
+      "caption": "광고제거 0.7.1 트윅이 적용된 네이버 카페 IPA입니다.",
       "date": "2026-10-12",
       "tintColor": "#34A853"
     }
@@ -187,7 +187,7 @@
       "name": "네이버 카페",
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "강아지DOG",
-      "subtitle": "광고 제거",
+      "subtitle": "광고 제거 0.7.1",
       "localizedDescription": "말 그대로 네이버 카페 앱내에 광고를 제거한 IPA 입니다.",
       "iconURL": "https://imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
