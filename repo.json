@@ -79,8 +79,8 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.멀티 (26.8.4)",
-      "subtitle": "카카오톡 메신저",
+      "developerName": "Kkao Corp.",
+      "subtitle": "순정 멀티 카카오톡",
       "localizedDescription": "",
       "iconURL": "https://imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
@@ -97,8 +97,8 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.메인 광고 제거(26.8.0)",
-      "subtitle": "카카오톡 메신저",
+      "developerName": "Kkao Corp.",
+      "subtitle": "광고제거 메인 카카오톡",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
@@ -115,8 +115,8 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kkao Corp.멀티 광고 제거(26.8.0)",
-      "subtitle": "카카오톡 메신저",
+      "developerName": "Kkao Corp.",
+      "subtitle": "광고제거 멀티 카카오톡",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
