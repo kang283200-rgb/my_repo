@@ -78,25 +78,25 @@
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "멀티 (26.8.4)",
+      "developerName": "Kkao Corp.멀티 (26.8.4)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "",
       "iconURL": "https://imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
       "versions": [
         {
-          "version": "26.8.0",
+          "version": "26.8.4",
           "date": "2026-10-12",
           "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
           "size": 293601280,
-          "localizedDescription": "카카오톡 최신 IPA"
+          "localizedDescription": "멀티 카카오톡"
         }
       ]
     },
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "메인 광고 제거(26.8.0)",
+      "developerName": "Kkao Corp.메인 광고 제거(26.8.0)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
@@ -107,14 +107,14 @@
           "date": "2026-10-12",
           "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
           "size": 293601280,
-          "localizedDescription": "카카오톡 최신 IPA"
+          "localizedDescription": "광고제거 메인 카카오톡 (26.8.0)"
         }
       ]
     },
     {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "멀티 광고 제거(26.8.0)",
+      "developerName": "Kkao Corp.멀티 광고 제거(26.8.0)",
       "subtitle": "카카오톡 메신저",
       "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
       "iconURL": "https://imgur.com/gbrUboG.png",
@@ -125,7 +125,7 @@
           "date": "2026-10-12",
           "downloadURL": "https://raw.githubusercontent.com/YOUR_USERNAME/sidestore-repo/main/ipa/KakaoTalk.ipa",
           "size": 293601280,
-          "localizedDescription": "카카오톡 최신 IPA"
+          "localizedDescription": "광고제거 멀티 카카오톡 (26.8.0)"
         }
       ]
     },
