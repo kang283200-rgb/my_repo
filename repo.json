@@ -41,7 +41,7 @@
     },
     {
       "name": "YouTube (YTPlus)",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus",
       "developerName": "dayanch96",
       "subtitle": "YTPlus",
       "localizedDescription": "< 적용된 트윅 >\n\n- YTPlus 6.0 b2\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouChooseQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
@@ -59,7 +59,7 @@
     },
     {
       "name": "YouTube (Youmod)",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube.youmod",
       "developerName": "Tonwalter888",
       "subtitle": "Youmod",
       "localizedDescription": "< 적용된 트윅 >\n\n- Youmod 2.0.0\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouChooseQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
