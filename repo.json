@@ -148,6 +148,24 @@
       ]
     },
     {
+      "name": "Threads",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "developerName": "swiftleopard",
+      "subtitle": "",
+      "localizedDescription": "광고 제거와 미디어 다운로드가 가능한 IPA입니다.",
+      "iconURL": "https://i.imgur.com/bwulNZC.png",
+      "tintColor": "#E1306C",
+      "versions": [
+        {
+          "version": "451.0.0",
+          "date": "2026-10-13",
+          "downloadURL": "https://www.dropbox.com/scl/fi/h5rynoxebia23jnhn1dk5/Threads-451.0-ThreadSaver.ipa?rlkey=q9h8j7rslgjh3tr38x1tlmta1&st=va1fpgsy&dl=1",
+          "size": 335544320,
+          "localizedDescription": "Threads 451.0"
+        }
+      ]
+    },
+    {
       "name": "카카오톡",
       "bundleIdentifier": "com.kakao.KakaoTalk",
       "developerName": "Kakao Corp.",
