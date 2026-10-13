@@ -121,6 +121,13 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "451.0",
+          "date": "2026-10-13",
+          "downloadURL": "https://www.dropbox.com/scl/fi/4h3hseqww8zpfspi2clkj/RyukGram_noplugins_v1.4.5_IG451.0.0.ipa?rlkey=j3jnf88bhmdmqhvekuo7h3w31&st=cyj8qxma&dl=1",
+          "size": 335544320,
+          "localizedDescription": "Ryukgram 1.4.5/instagram 451.0"
+        },
+        {
           "version": "449.0",
           "date": "2026-10-12",
           "downloadURL": "https://www.dropbox.com/scl/fi/083p4bkwmuqxmhgmcal7w/RyukGram_noplugins_v1.4.5_IG449.0.0.ipa?rlkey=ltukj6vz2ez2yv1pn9udyuc7s&st=rur7c741&dl=1",
@@ -144,6 +151,13 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/cmwtxqlofsja90tn9oqlp/RyukGram_sideload_v1.4.5_IG451.0.0.ipa?rlkey=2737mvert4ggoyz96nxdicq1x&st=3pg9rimf&dl=1",
           "size": 335544320,
           "localizedDescription": "Ryukgram 1.4.5/instagram 451.0"
+        },
+        {
+          "version": "449.0",
+          "date": "2026-10-12",
+          "downloadURL": "https://www.dropbox.com/scl/fi/7qvma8mkkomwzm2zep12q/RyukGram_plugins_v1.4.5_IG449.0.0.ipa?rlkey=w6gpguxk0jnvdjeldxl01pir1&st=lhf7ngt3&dl=1",
+          "size": 123450000
+          "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
         }
       ]
     },
