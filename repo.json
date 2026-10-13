@@ -237,7 +237,7 @@
       "name": "네이버 카페",
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "강아지DOG",
-      "subtitle": "광고 제거 0.7.1",
+      "subtitle": "광고, 웹뷰 제거",
       "localizedDescription": "말 그대로 네이버 카페 앱내에 광고와 웹뷰를 제거한 IPA 입니다.",
       "iconURL": "https://i.imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
