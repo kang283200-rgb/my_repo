@@ -9,7 +9,7 @@
       "identifier": "news-instagram-451.0",
       "caption": "instagram 451.0 버전 업데이트",
       "date": "2026-10-13",
-      "tintColor": "#34A853"
+      "tintColor": "#CB7AAE"
     },
     {
       "title": "네이버카페 트윅 추가 업데이트",
@@ -23,8 +23,7 @@
       "identifier": "news-ytkace-1.1.3",
       "caption": "YTKace 1.1.3 업데이트",
       "date": "2026-10-12",
-      "tintColor": "#D91C43",
-      "appID": "com.google.ios.youtube"
+      "tintColor": "#D91C43"
     }
   ],
   "apps": [
