@@ -244,10 +244,10 @@
       "versions": [
         {
           "version": "26.1005.0",
-          "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/ducu2s0u40dksrihwr1a2/_v26.1005.0.ipa?rlkey=i9wfmkxoopto1y70cb9u5esn1&st=jmx1mzbu&dl=1",
+          "date": "2026-10-13",
+          "downloadURL": "https://www.dropbox.com/scl/fi/vfgs5hprfry1p227ty4ov/_v26.1005.0.ipa?rlkey=h9a7uv2vtxlbe14echuk3b03s&st=9huscx8w&dl=1",
           "size": 183500800,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.1\n- 광고 제거 0.7.1\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.1\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         }
       ]
     },
