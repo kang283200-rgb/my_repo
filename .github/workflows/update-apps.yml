@@ -1,0 +1,51 @@
+name: Update Repository App Sizes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'repo.json'
+      - 'update_apps.py'
+      - '.github/workflows/update-apps.yml'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-repository-app-sizes
+  cancel-in-progress: false
+
+jobs:
+  update-app-sizes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Google Drive API 키 설정 및 실행
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: python update_apps.py
+
+      - name: 변경된 repo.json 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add repo.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update IPA file sizes"
+            git push
+          else
+            echo "변경된 내용이 없습니다."
+          fi
