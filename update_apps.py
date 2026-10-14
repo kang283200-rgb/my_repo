@@ -105,8 +105,7 @@ for app in data.get("apps", []):
 
             if file_size > 0:
                 version_info["size"] = file_size
-                version_info["date"] = current_date
-
+                
                 print(
                     f"[{app_name} / {version_name}] "
                     f"용량 업데이트 완료: {file_size:,} Bytes"
