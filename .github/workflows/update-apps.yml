@@ -31,10 +31,24 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: 저장소 파일 확인
+        run: |
+          echo "현재 작업 경로:"
+          pwd
+
+          echo "저장소 최상위 파일 목록:"
+          ls -la
+
+          echo "Python 파일 검색:"
+          find . -maxdepth 3 -type f -name "update_apps.py"
+
+          echo "파일 존재 여부 확인:"
+          test -f ./update_apps.py
+
       - name: Google Drive API 키 설정 및 실행
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python update_apps.py
+        run: python ./update_apps.py
 
       - name: 변경된 repo.json 커밋
         run: |
