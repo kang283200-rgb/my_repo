@@ -32,7 +32,7 @@
         {
           "version": "21.41.5",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/bm86g0r0rqz27cxc5bh8f/YTKACE_1.1.3_YouTube_21.41.5.ipa?rlkey=v44mfuuzy4sccmrtr2brm4iky&st=hb9s8ci6&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1bLVb330Edy_49RA_MZPxWg0TyjunwnCc/view?usp=drive_link",
           "size": 193986560,
           "localizedDescription": "< 새로운 기능 >\n\n- AI 채널 숨기기(Hide AI Channels) 기능 추가, 피드와 검색 결과에서 AiSList 차단 목록(blocklist)에 포함된 채널의 동영상을 숨겨주며, 경고 목록(warnlist)에도 적용할 수 있는 옵션 포함\n- SponsorBlock 팝업을 스와이프하여 닫을 수 있도록 개선\n\n< 버그 수정 >\n\n- 새로운 Shorts UI에서 간헐적으로 Shorts 다운로드 버튼이 보이지 않던 문제 수정\n- 새로운 Shorts UI에서 '자동 건너뛰기(Auto-Skip)' 및 'Shorts 한 번만 재생(Play Shorts Once)' 기능이 작동하지 않던 문제 수정\n- Shorts에서 꼬집기(Pinch) 동작으로 전체 화면 전환 시 화면이 멈추거나 다음 Shorts가 시작되던 문제 수정\n- 로컬 대기열(Local Queue)이 켜져 있을 때 반복 재생(Loop) 버튼이 작동하지 않던 문제 수정\n- SponsorBlock 팝업이 서서히 나타나지 않던(fade-in) 문제 수정\n- 플레이어의 챕터 알약(Chapter pill) 버튼에 간헐적으로 리퀴드 글래스(Liquid Glass) 효과가 적용되지 않던 문제 수정"
         }
@@ -50,7 +50,7 @@
         {
           "version": "21.41.5",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/6oejaxxz49j72gqd8cann/YouTube-21.41.5-YTPlus-6.0-B2.ipa?rlkey=qlctcl8734a0bbczwphgsqrw1&st=1op4ob48&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1PBqG9BNUXmJAvmZQ-Y_Afb2_ji0eKn-A/view?usp=drive_link",
           "size": 193986560,
           "localizedDescription": "YTPlus 6.0 b2"
         }
@@ -68,7 +68,7 @@
         {
           "version": "21.41.5",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/cd5v5uko1dn4kxv16npeh/Youmod_2.0.0_YouTube_21.41.5.ipa?rlkey=xyrf6hz4mfbbw97nv9k83jdn5&st=yn7oqqyh&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1bxgVwq1ZXdNN4PjC-oONEYmuL7da_usK/view?usp=drive_link",
           "size": 193986560,
           "localizedDescription": "Youmod 2.0.0"
         }
@@ -86,7 +86,7 @@
         {
           "version": "9.41",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/swc1obqxekmr4n2givu99/YouTube-Music_v9.41.ipa?rlkey=mjrk94nxybvo8mesfhpqmg3zd&st=dgbz2o7j&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1r2AJ9Efb4VxDEtI0UbKbg4kXypzCj3XX/view?usp=drive_link",
           "size": 183500800,
           "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
         }
@@ -104,7 +104,7 @@
         {
           "version": "8.82.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/meuwfnzv78apuf9do833f/SoundCloud-8.82.0-NexaSC.ipa?rlkey=tj1my3rwju3lrmtp1bui2mint&st=f7jdsx66&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1rFNbkPoEdRvO_LsVu3Chm5JOdBIC7Haa/view?usp=drive_link",
           "size": 183500800,
           "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
         }
@@ -122,14 +122,14 @@
         {
           "version": "451.0.0",
           "date": "2026-10-13",
-          "downloadURL": "https://www.dropbox.com/scl/fi/8s4ala7lw45sfxzhickx1/RyukGram_noplugins_v1.4.5_IG451.0.0.ipa?rlkey=c42ah2fznso16ujnheq80vhaf&st=ljgc3f87&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1ZEur1AGOAEK0-wgWSDnahrQKYpsd4KHA/view?usp=drive_link",
           "size": 335544320,
           "localizedDescription": "Ryukgram 1.4.5/instagram 451.0.0"
         },
         {
           "version": "449.0.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/iyig3ptl1kcislqzha1pr/RyukGram_noplugins_v1.4.5_IG449.0.0.ipa?rlkey=zuik9f1fa3h0834kkdhshsyem&st=7e4fxz2h&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1zzedDpSmVQO5nGJFvHkpBiMgopbJAOnM/view?usp=drive_link",
           "size": 335544320,
           "localizedDescription": "Ryukgram 1.4.5/instagram 449.0.0"
         }
@@ -147,14 +147,14 @@
         {
           "version": "451.0.0",
           "date": "2026-10-13",
-          "downloadURL": "https://www.dropbox.com/scl/fi/cmwtxqlofsja90tn9oqlp/RyukGram_sideload_v1.4.5_IG451.0.0.ipa?rlkey=2737mvert4ggoyz96nxdicq1x&st=3pg9rimf&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/16lnUsnSGn5P15h8C2XbiPeuFBRfL45kD/view?usp=drive_link",
           "size": 335544320,
           "localizedDescription": "Ryukgram 1.4.5/instagram 451.0"
         },
         {
           "version": "449.0.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/7qvma8mkkomwzm2zep12q/RyukGram_plugins_v1.4.5_IG449.0.0.ipa?rlkey=w6gpguxk0jnvdjeldxl01pir1&st=lhf7ngt3&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1iaJ7zT3yCYY9UlxtCsf-YMlNh0Cqb1VU/view?usp=drive_link",
           "size": 335544320,
           "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
         }
@@ -172,7 +172,7 @@
         {
           "version": "451.0",
           "date": "2026-10-13",
-          "downloadURL": "https://www.dropbox.com/scl/fi/jsmlk4x98ldofnzjy5qg9/Threads-451.0-ThreadSaver.ipa?rlkey=13v8xsb9u3ylbdquuyxqt2car&st=jsnpe0yr&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1JUEcFO9hQm5xPOA5m1IfNE5ihLg7SR-2/view?usp=drive_link",
           "size": 335544320,
           "localizedDescription": "Threads 451.0"
         }
@@ -190,7 +190,7 @@
         {
           "version": "26.8.4",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/qjqrzy9f2lj98spgjjt53/26.8.4.ipa?rlkey=j48kiqjvz5ne4xv3niw9hspci&st=2qo1sw75&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1KmiFomyn76ZMoUGNhN7Ub68lU8EFTlIY/view?usp=drive_link",
           "size": 293601280,
           "localizedDescription": "멀티 카카오톡"
         }
@@ -208,7 +208,7 @@
         {
           "version": "26.8.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/685c0k9nh0k2z0wr9kvir/26.8.0.ipa?rlkey=9guosqo1vh9cias3p5gfpzk5x&st=4n9gxoym&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1HtF3RZxDsvt1S_oZdZUBLe6pn7xrZn0O/view?usp=drive_link",
           "size": 293601280,
           "localizedDescription": "광고제거 메인 카카오톡 (26.8.0)"
         }
@@ -226,7 +226,7 @@
         {
           "version": "26.8.0",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/b3rl5t0j2ct7mwcwgywaz/26.8.0.ipa?rlkey=tk2via99df1fvri6s6325p1kv&st=3b0owwfz&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1B79aH-lXSec7JTlCMYMYpKOqK2xYpNQ2/view?usp=drive_link",
           "size": 293601280,
           "localizedDescription": "광고제거 멀티 카카오톡 (26.8.0)"
         }
@@ -244,7 +244,7 @@
         {
           "version": "26.1005.0",
           "date": "2026-10-13",
-          "downloadURL": "https://www.dropbox.com/scl/fi/vfgs5hprfry1p227ty4ov/_v26.1005.0.ipa?rlkey=h9a7uv2vtxlbe14echuk3b03s&st=9huscx8w&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1dVssHVZOT6unPOzEbuzfNQ2jWgcqoTkA/view?usp=drive_link",
           "size": 183500800,
           "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.1\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         }
@@ -262,7 +262,7 @@
         {
           "version": "3.4.15",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/dyc2ir1j1w9tnjhsqwsfo/Photomator3.4.15-LifetimeUnlocked.ipa?rlkey=916zood99kamc9lbi98xzlloc&st=4vm2dk0u&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1HQ9xa8_lrIbp5NrJGVVBBAGFsKEO6cvm/view?usp=drive_link",
           "size": 293601280,
           "localizedDescription": ""
         }
@@ -280,7 +280,7 @@
         {
           "version": "7.1.21",
           "date": "2026-10-12",
-          "downloadURL": "https://www.dropbox.com/scl/fi/lmqpy2pmawi3ry8uc86uf/Goodnotes_v7.1.27-unlock.ipa?rlkey=hufrb8ij2bo5rgamrbmgcsyy9&st=zpo7v781&dl=1",
+          "downloadURL": "https://drive.google.com/file/d/1v61DqhcSW4GtlXdKkAPCX2EuU_8YAFs1/view?usp=drive_link",
           "size": 293601280,
           "localizedDescription": "BadNotes 0.3 적용"
         }
