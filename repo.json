@@ -112,7 +112,7 @@
     },
     {
       "name": "Instagram",
-      "bundleIdentifier": "com.burbn.instagram2",
+      "bundleIdentifier": "com.burbn.instagram.noplugin",
       "developerName": "faroukbmiled",
       "subtitle": "사이드 스토어",
       "localizedDescription": "홈버튼 꾹 눌러 설정 진입\n각종 기능들이 탑재된 IPA입니다.",
