@@ -31,7 +31,7 @@
       "versions": [
         {
           "version": "21.41.5",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1bLVb330Edy_49RA_MZPxWg0TyjunwnCc/view?usp=drive_link",
           "size": 137783541,
           "localizedDescription": "< 새로운 기능 >\n\n- AI 채널 숨기기(Hide AI Channels) 기능 추가, 피드와 검색 결과에서 AiSList 차단 목록(blocklist)에 포함된 채널의 동영상을 숨겨주며, 경고 목록(warnlist)에도 적용할 수 있는 옵션 포함\n- SponsorBlock 팝업을 스와이프하여 닫을 수 있도록 개선\n\n< 버그 수정 >\n\n- 새로운 Shorts UI에서 간헐적으로 Shorts 다운로드 버튼이 보이지 않던 문제 수정\n- 새로운 Shorts UI에서 '자동 건너뛰기(Auto-Skip)' 및 'Shorts 한 번만 재생(Play Shorts Once)' 기능이 작동하지 않던 문제 수정\n- Shorts에서 꼬집기(Pinch) 동작으로 전체 화면 전환 시 화면이 멈추거나 다음 Shorts가 시작되던 문제 수정\n- 로컬 대기열(Local Queue)이 켜져 있을 때 반복 재생(Loop) 버튼이 작동하지 않던 문제 수정\n- SponsorBlock 팝업이 서서히 나타나지 않던(fade-in) 문제 수정\n- 플레이어의 챕터 알약(Chapter pill) 버튼에 간헐적으로 리퀴드 글래스(Liquid Glass) 효과가 적용되지 않던 문제 수정"
@@ -49,7 +49,7 @@
       "versions": [
         {
           "version": "21.41.5",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1PBqG9BNUXmJAvmZQ-Y_Afb2_ji0eKn-A/view?usp=drive_link",
           "size": 176322532,
           "localizedDescription": "YTPlus 6.0 b2"
@@ -67,7 +67,7 @@
       "versions": [
         {
           "version": "21.41.5",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1bxgVwq1ZXdNN4PjC-oONEYmuL7da_usK/view?usp=drive_link",
           "size": 138782576,
           "localizedDescription": "Youmod 2.0.0"
@@ -85,7 +85,7 @@
       "versions": [
         {
           "version": "9.41",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1r2AJ9Efb4VxDEtI0UbKbg4kXypzCj3XX/view?usp=drive_link",
           "size": 122332866,
           "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
@@ -103,7 +103,7 @@
       "versions": [
         {
           "version": "8.82.0",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1rFNbkPoEdRvO_LsVu3Chm5JOdBIC7Haa/view?usp=drive_link",
           "size": 227238033,
           "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
@@ -121,14 +121,14 @@
       "versions": [
         {
           "version": "451.0.0",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1ZEur1AGOAEK0-wgWSDnahrQKYpsd4KHA/view?usp=drive_link",
           "size": 276837255,
           "localizedDescription": "Ryukgram 1.4.5/instagram 451.0.0"
         },
         {
           "version": "449.0.0",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1zzedDpSmVQO5nGJFvHkpBiMgopbJAOnM/view?usp=drive_link",
           "size": 277951020,
           "localizedDescription": "Ryukgram 1.4.5/instagram 449.0.0"
@@ -146,14 +146,14 @@
       "versions": [
         {
           "version": "451.0.0",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/16lnUsnSGn5P15h8C2XbiPeuFBRfL45kD/view?usp=drive_link",
           "size": 345086265,
           "localizedDescription": "Ryukgram 1.4.5/instagram 451.0"
         },
         {
           "version": "449.0.0",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1iaJ7zT3yCYY9UlxtCsf-YMlNh0Cqb1VU/view?usp=drive_link",
           "size": 349495550,
           "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
@@ -171,7 +171,7 @@
       "versions": [
         {
           "version": "451.0",
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1JUEcFO9hQm5xPOA5m1IfNE5ihLg7SR-2/view?usp=drive_link",
           "size": 108431617,
           "localizedDescription": "Threads 451.0"
@@ -189,7 +189,7 @@
       "versions": [
         {
           "version": "26.8.4",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1KmiFomyn76ZMoUGNhN7Ub68lU8EFTlIY/view?usp=drive_link",
           "size": 268158985,
           "localizedDescription": "멀티 카카오톡"
@@ -207,7 +207,7 @@
       "versions": [
         {
           "version": "26.8.0",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1HtF3RZxDsvt1S_oZdZUBLe6pn7xrZn0O/view?usp=drive_link",
           "size": 293685302,
           "localizedDescription": "광고제거 메인 카카오톡 (26.8.0)"
@@ -225,7 +225,7 @@
       "versions": [
         {
           "version": "26.8.0",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1B79aH-lXSec7JTlCMYMYpKOqK2xYpNQ2/view?usp=drive_link",
           "size": 293701639,
           "localizedDescription": "광고제거 멀티 카카오톡 (26.8.0)"
@@ -243,7 +243,7 @@
       "versions": [
         {
           "version": "26.1005.0",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1dVssHVZOT6unPOzEbuzfNQ2jWgcqoTkA/view?usp=drive_link",
           "size": 136179583,
           "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.1\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
@@ -261,7 +261,7 @@
       "versions": [
         {
           "version": "3.4.15",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1HQ9xa8_lrIbp5NrJGVVBBAGFsKEO6cvm/view?usp=drive_link",
           "size": 713040446,
           "localizedDescription": ""
@@ -279,7 +279,7 @@
       "versions": [
         {
           "version": "7.1.27",
-          "date": "2026-10-14",
+          "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1v61DqhcSW4GtlXdKkAPCX2EuU_8YAFs1/view?usp=drive_link",
           "size": 522851342,
           "localizedDescription": "BadNotes 0.3 적용"
