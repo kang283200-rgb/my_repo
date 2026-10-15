@@ -23,14 +23,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. 저장소 체크아웃
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
 
+      # 2. Python 설정
       - name: Python 설정
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
+      # 3. 필수 파일 확인
       - name: 저장소 파일 확인
         run: |
           echo "현재 작업 경로:"
@@ -39,17 +42,26 @@ jobs:
           echo "저장소 최상위 파일 목록:"
           ls -la
 
-          echo "Python 파일 검색:"
-          find . -maxdepth 3 -type f -name "update_apps.py"
+          if [ ! -f "./repo.json" ]; then
+            echo "::error::repo.json 파일을 찾을 수 없습니다."
+            exit 1
+          fi
 
-          echo "파일 존재 여부 확인:"
-          test -f ./update_apps.py
+          if [ ! -f "./update_apps.py" ]; then
+            echo "::error::update_apps.py 파일을 찾을 수 없습니다."
+            find . -maxdepth 3 -type f -name "update_apps.py"
+            exit 1
+          fi
 
-      - name: Google Drive API 키 설정 및 실행
+          echo "필수 파일 확인 완료"
+
+      # 4. Google Drive 파일 크기 갱신
+      - name: Google Drive 파일 크기 갱신
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: python ./update_apps.py
 
+      # 5. 변경 사항 커밋
       - name: 변경된 repo.json 커밋
         run: |
           git config user.name "github-actions[bot]"
