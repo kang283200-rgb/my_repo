@@ -280,7 +280,7 @@
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "c22dev",
       "subtitle": "AI Notes, Docs, PDF",
-      "localizedDescription": "Goodnotes pro unlock 버전",
+      "localizedDescription": "Goodnotes pro unlock 버전\n\n< 안되는 기능 >\n\n- icloud 동기화",
       "iconURL": "https://i.imgur.com/TpWhB1Q.png",
       "tintColor": "#FFE812",
       "versions": [
