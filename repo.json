@@ -279,8 +279,8 @@
       "name": "Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Giner Labs, Inc.",
-      "subtitle": "첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
-      "localizedDescription": "Pro unlock 버전",
+      "subtitle": "메모 작성, PDF, Doc",
+      "localizedDescription": "Pro unlock 버전\n첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
       "iconURL": "https://i.imgur.com/p1ArEhi.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -289,7 +289,7 @@
           "date": "2026-10-16",
           "downloadURL": "https://drive.google.com/file/d/1A3cJK47xrO6Htx-OKDAuPS5beHY4uQF4/view?usp=drive_link",
           "size": 267201982,
-          "localizedDescription": "apple id 로그인 불가"
+          "localizedDescription": "apple id 로그인 불가\n"
         }
       ]
     },
