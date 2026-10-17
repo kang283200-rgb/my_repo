@@ -204,42 +204,6 @@
       ]
     },
     {
-      "name": "카카오톡",
-      "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kakao Corp.",
-      "subtitle": "광고제거 메인 카카오톡",
-      "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
-      "iconURL": "https://i.imgur.com/gbrUboG.png",
-      "tintColor": "#FFE812",
-      "versions": [
-        {
-          "version": "26.8.0",
-          "date": "2026-10-12",
-          "downloadURL": "https://drive.google.com/file/d/1HtF3RZxDsvt1S_oZdZUBLe6pn7xrZn0O/view?usp=drive_link",
-          "size": 293685302,
-          "localizedDescription": "광고제거 메인 카카오톡 (26.8.0)"
-        }
-      ]
-    },
-    {
-      "name": "카카오톡",
-      "bundleIdentifier": "com.kakao.KakaoTalk",
-      "developerName": "Kakao Corp.",
-      "subtitle": "광고제거 멀티 카카오톡",
-      "localizedDescription": "< 작동 안되는 기능 >\n- 유료 톡클라우드 백업 복원\n- 카카오페이\n- 카카오 인증서",
-      "iconURL": "https://i.imgur.com/gbrUboG.png",
-      "tintColor": "#FFE812",
-      "versions": [
-        {
-          "version": "26.8.0",
-          "date": "2026-10-12",
-          "downloadURL": "https://drive.google.com/file/d/1B79aH-lXSec7JTlCMYMYpKOqK2xYpNQ2/view?usp=drive_link",
-          "size": 293701639,
-          "localizedDescription": "광고제거 멀티 카카오톡 (26.8.0)"
-        }
-      ]
-    },
-    {
       "name": "네이버 카페",
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "강아지DOG",
