@@ -169,11 +169,11 @@
       "tintColor": "#E1306C",
       "versions": [
         {
-          "version": "452.0.0",
+          "version": "452.0.1",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/1AqZF8UD0l63_kG5zobv0DjcO8ZnNQAym/view?usp=drive_link",
           "size": 284958737,
-          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.0"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.1"
         },
         {
           "version": "451.0.0",
