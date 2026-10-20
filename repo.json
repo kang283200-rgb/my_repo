@@ -5,25 +5,39 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
-      "title": "Goodnotes 7.1.28 업데이트",
-      "identifier": "news-goodnotes-7.1.28",
-      "caption": "goodnotes 7.1.28 버전 업데이트",
-      "date": "2026-10-13",
+      "title": "멀티 카카옥톡 26.9.0 업데이트",
+      "identifier": "news-kakaotalck",
+      "caption": "youtube music 9.42 버전 업데이트",
+      "date": "2026-10-20",
+      "tintColor": "#FFE101"
+    },
+    {
+      "title": "유튜브 뮤직 9.42 업데이트",
+      "identifier": "news-ytmusic",
+      "caption": "youtube music 9.42 버전 업데이트",
+      "date": "2026-10-20",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "Goodnotes 7.1.30 업데이트",
+      "identifier": "news-goodnotes",
+      "caption": "goodnotes 7.1.30 버전 업데이트",
+      "date": "2026-10-20",
       "tintColor": "#FCFCFC"
     },
     {
-      "title": "Instagram 451.0 업데이트",
-      "identifier": "news-instagram-451.0",
+      "title": "Instagram 452.0.0 업데이트",
+      "identifier": "news-instagram",
       "caption": "instagram 451.0 버전 업데이트",
-      "date": "2026-10-13",
+      "date": "2026-10-20",
       "tintColor": "#CB7AAE"
     },
     {
-      "title": "네이버카페 트윅 추가 업데이트",
-      "identifier": "news-navercafe-26.1005.0",
-      "caption": "웹뷰 제거 트윅 추가",
-      "date": "2026-10-13",
-      "tintColor": "#34A853"
+      "title": "SoundCloud 8.83 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 8.83 버전 업데이트",
+      "date": "2026-10-20",
+      "tintColor": "#FF5500"
     }
   ],
   "apps": [
@@ -91,6 +105,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "9.42",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/19uIwnRqri4bAjoeI82qOs36_vN2SsDnu/view?usp=drive_link",
+          "size": 122332866,
+          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig\n- YouMusicPiP"
+        },
+        {
           "version": "9.41",
           "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1r2AJ9Efb4VxDEtI0UbKbg4kXypzCj3XX/view?usp=drive_link",
@@ -109,6 +130,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "8.83.0",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/1PJCaPt9VzcW5W2zHQwwJzySY7MHDKFsx/view?usp=drive_link",
+          "size": 227238033,
+          "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
+        },
+        {
           "version": "8.82.0",
           "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1rFNbkPoEdRvO_LsVu3Chm5JOdBIC7Haa/view?usp=drive_link",
@@ -126,6 +154,13 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "versions": [
+        {
+          "version": "452.0.0",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/1AqZF8UD0l63_kG5zobv0DjcO8ZnNQAym/view?usp=drive_link",
+          "size": 345086265,
+          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.0"
+        },
         {
           "version": "451.0.0",
           "date": "2026-10-13",
@@ -152,18 +187,25 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "452.0.0",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/1lQP1rddhhoW-lSulJp4XKIKobcIFWVfC/view?usp=drive_link",
+          "size": 345086265,
+          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.0"
+        },
+        {
           "version": "451.0.0",
           "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/16lnUsnSGn5P15h8C2XbiPeuFBRfL45kD/view?usp=drive_link",
           "size": 345086265,
-          "localizedDescription": "Ryukgram 1.4.5/instagram 451.0"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 451.0.0"
         },
         {
           "version": "449.0.0",
           "date": "2026-10-12",
           "downloadURL": "https://drive.google.com/file/d/1iaJ7zT3yCYY9UlxtCsf-YMlNh0Cqb1VU/view?usp=drive_link",
           "size": 349495550,
-          "localizedDescription": "Ryukgram 1.4.5/instagram 449.0"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 449.0.0"
         }
       ]
     },
@@ -194,6 +236,13 @@
       "iconURL": "https://i.imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "26.9.0",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/1pwyShQwGf31Oxx4OV8gaN_eEu5ahrn_J/view?usp=drive_link",
+          "size": 275786127,
+          "localizedDescription": "멀티 카카오톡"
+        },
         {
           "version": "26.8.4",
           "date": "2026-10-17",
@@ -285,17 +334,17 @@
       "tintColor": "#FFE812",
       "versions": [
         {
-          "version": "7.1.28",
-          "date": "2026-10-16",
-          "downloadURL": "https://drive.google.com/file/d/1pBxXzEXDRHov73eMBK_q_7jJJz0YC9aL/view?usp=drive_link",
+          "version": "7.1.30",
+          "date": "2026-10-20",
+          "downloadURL": "https://drive.google.com/file/d/1RT0reNrWCsgPmPTpx8DZVjsucdxiCMgw/view?usp=drive_link",
           "size": 509122049,
           "localizedDescription": "BadNotes 0.3 적용"
         },
         {
-          "version": "7.1.27",
-          "date": "2026-10-12",
-          "downloadURL": "https://drive.google.com/file/d/1v61DqhcSW4GtlXdKkAPCX2EuU_8YAFs1/view?usp=drive_link",
-          "size": 522851342,
+          "version": "7.1.28",
+          "date": "2026-10-16",
+          "downloadURL": "https://drive.google.com/file/d/1pBxXzEXDRHov73eMBK_q_7jJJz0YC9aL/view?usp=drive_link",
+          "size": 509122049,
           "localizedDescription": "BadNotes 0.3 적용"
         }
       ]
