@@ -40,9 +40,9 @@
       "tintColor": "#FCFCFC"
     },
     {
-      "title": "Instagram 452.0.0 업데이트",
+      "title": "Instagram 452.0.1 업데이트",
       "identifier": "news-instagram",
-      "caption": "instagram 451.0 버전 업데이트",
+      "caption": "instagram 452.0.1 버전 업데이트",
       "date": "2026-10-20",
       "tintColor": "#CB7AAE"
     },
@@ -201,11 +201,11 @@
       "tintColor": "#E1306C",
       "versions": [
         {
-          "version": "452.0.0",
+          "version": "452.0.1",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/1lQP1rddhhoW-lSulJp4XKIKobcIFWVfC/view?usp=drive_link",
           "size": 353399038,
-          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.0"
+          "localizedDescription": "Ryukgram 1.4.5/instagram 452.0.1"
         },
         {
           "version": "451.0.0",
