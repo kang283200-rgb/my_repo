@@ -26,9 +26,9 @@
       "tintColor": "#FFE101"
     },
     {
-      "title": "유튜브 뮤직 9.42 업데이트",
+      "title": "유튜브 뮤직 9.42.2 업데이트",
       "identifier": "news-ytmusic",
-      "caption": "youtube music 9.42 버전 업데이트",
+      "caption": "youtube music 9.42.2 버전 업데이트",
       "date": "2026-10-20",
       "tintColor": "#FF0F3E"
     },
@@ -119,7 +119,7 @@
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "9.42",
+          "version": "9.42.2",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/19uIwnRqri4bAjoeI82qOs36_vN2SsDnu/view?usp=drive_link",
           "size": 122766466,
