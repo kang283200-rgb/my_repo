@@ -264,7 +264,7 @@
     },
     {
       "name": "카카오톡",
-      "bundleIdentifier": "com.kakao.KakaoTalk",
+      "bundleIdentifier": "com.kakao.KakaoTalk2",
       "developerName": "Kakao Corp.",
       "subtitle": "순정 멀티 카카오톡",
       "localizedDescription": "",
