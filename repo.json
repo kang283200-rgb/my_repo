@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "유튜브 21.42.4 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube 21.42.4 버전 업데이트",
+      "date": "2026-10-22",
+      "tintColor": "#FF0F3E"
+    },
+    {
       "title": "Notability 16.13.2 업데이트",
       "identifier": "news-notability",
       "caption": "Notability 16.13.2 버전 업데이트",
