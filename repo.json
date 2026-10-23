@@ -205,6 +205,13 @@
       "versions": [
         {
           "version": "452.0.1",
+          "date": "2026-10-24",
+          "downloadURL": "https://drive.google.com/file/d/18wKzQXTlgOe9mZVnMJjGc9umADLlfoZy/view?usp=drive_link",
+          "size": 284405346,
+          "localizedDescription": "Ryukgram 1.5.0/instagram 452.0.1"
+        },
+        {
+          "version": "452.0.1",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/1AqZF8UD0l63_kG5zobv0DjcO8ZnNQAym/view?usp=drive_link",
           "size": 284405346,
@@ -235,6 +242,13 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "versions": [
+        {
+          "version": "452.0.1",
+          "date": "2026-10-24",
+          "downloadURL": "https://drive.google.com/file/d/1RfuslpLl3Q8nciutx6en-XD_w_d0Fzsg/view?usp=drive_link",
+          "size": 284405346,
+          "localizedDescription": "Ryukgram 1.5.0/instagram 452.0.1"
+        },
         {
           "version": "452.0.1",
           "date": "2026-10-20",
@@ -299,6 +313,13 @@
       "iconURL": "https://i.imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "26.9.1",
+          "date": "2026-10-24",
+          "downloadURL": "https://drive.google.com/file/d/1eSvU9K8rle7RlCrm-EYDZN85A4jnN4ax/view?usp=drive_link",
+          "size": 284016723,
+          "localizedDescription": "멀티 카카오톡"
+        },
         {
           "version": "26.9.0",
           "date": "2026-10-20",
