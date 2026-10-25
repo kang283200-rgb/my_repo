@@ -88,16 +88,16 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace",
       "subtitle": "YTKace",
-      "localizedDescription": "< 적용된 트윅 >\n\n- YTKace 1.1.3\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouChooseQuality\n- YouQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
+      "localizedDescription": "< 적용된 트윅 >\n\n- YTKace 1.1.4\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouChooseQuality\n- YouMute\n- YouLoop\n- YouQuality\n- YouSpeed\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "21.42.4",
-          "date": "2026-10-22",
-          "downloadURL": "https://drive.google.com/file/d/1nTRn56CisHK5dzveit5QKoblY4ydk2ls/view?usp=drive_link",
+          "date": "2026-10-26",
+          "downloadURL": "https://drive.google.com/file/d/1MxiRSexsF9vWamK5qoUjs8cbK4EZKpeQ/view?usp=drive_link",
           "size": 159258830,
-          "localizedDescription": "YTKace 1.1.3)"
+          "localizedDescription": "YTKace 1.1.4"
         },
         {
           "version": "21.41.5",
@@ -168,6 +168,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "9.43",
+          "date": "2026-10-26",
+          "downloadURL": "https://drive.google.com/file/d/1GGbQln4t1L4AJOizZn_62bMiqZ9yy79g/view?usp=drive_link",
+          "size": 122759742,
+          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
+        },
+        {
           "version": "9.42.2",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/19uIwnRqri4bAjoeI82qOs36_vN2SsDnu/view?usp=drive_link",
@@ -192,6 +199,13 @@
       "iconURL": "https://i.imgur.com/sHr48Ge.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "8.83.1",
+          "date": "2026-10-26",
+          "downloadURL": "https://drive.google.com/file/d/1T4oA9JZm4dRelpsTOx0giIQfL81BvDCE/view?usp=drive_link",
+          "size": 227377895,
+          "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
+        },
         {
           "version": "8.83.0",
           "date": "2026-10-20",
@@ -445,6 +459,13 @@
       "iconURL": "https://i.imgur.com/TpWhB1Q.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "7.1.32",
+          "date": "2026-10-26",
+          "downloadURL": "https://drive.google.com/file/d/1yR6XCsz3KP5k69gKMnBylJheKSfAPnmz/view?usp=drive_link",
+          "size": 502711865,
+          "localizedDescription": "BadNotes 0.3 적용"
+        },
         {
           "version": "7.1.30",
           "date": "2026-10-20",
