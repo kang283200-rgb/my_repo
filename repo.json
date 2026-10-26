@@ -5,6 +5,34 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "유튜브 YTKace 1.1.4 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube YTKace 1.1.4 버전 업데이트",
+      "date": "2026-10-26",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "유튜브 뮤직 9.43.2 업데이트",
+      "identifier": "news-ytmusic",
+      "caption": "youtube music 9.43.2 버전 업데이트",
+      "date": "2026-10-26",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "Goodnotes 7.1.32 업데이트",
+      "identifier": "news-goodnotes",
+      "caption": "goodnotes 7.1.32 버전 업데이트",
+      "date": "2026-10-26",
+      "tintColor": "#FCFCFC"
+    },
+    {
+      "title": "SoundCloud 8.83.1 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 8.83.1 버전 업데이트",
+      "date": "2026-10-26",
+      "tintColor": "#FF5500"
+    },
+    {
       "title": "멀티 카카옥톡 26.9.1 업데이트",
       "identifier": "news-kakaotalk",
       "caption": "멀티 카카옥톡 26.9.1 버전 업데이트\n카톡 링크 클릭시 메인 카톡이 실행되던 문제 수정",
@@ -26,13 +54,6 @@
       "tintColor": "#04C75C"
     },
     {
-      "title": "유튜브 21.42.4 업데이트",
-      "identifier": "news-youtube",
-      "caption": "youtube 21.42.4 버전 업데이트",
-      "date": "2026-10-22",
-      "tintColor": "#FF0F3E"
-    },
-    {
       "title": "Notability 16.13.2 업데이트",
       "identifier": "news-notability",
       "caption": "Notability 16.13.2 버전 업데이트",
@@ -47,39 +68,11 @@
       "tintColor": "#060606"
     },
     {
-      "title": "멀티 카카옥톡 26.9.0 업데이트",
-      "identifier": "news-kakaotalk",
-      "caption": "멀티 카카옥톡 26.9.0 버전 업데이트",
-      "date": "2026-10-20",
-      "tintColor": "#FFE101"
-    },
-    {
-      "title": "유튜브 뮤직 9.42.2 업데이트",
-      "identifier": "news-ytmusic",
-      "caption": "youtube music 9.42.2 버전 업데이트",
-      "date": "2026-10-20",
-      "tintColor": "#FF0F3E"
-    },
-    {
-      "title": "Goodnotes 7.1.30 업데이트",
-      "identifier": "news-goodnotes",
-      "caption": "goodnotes 7.1.30 버전 업데이트",
-      "date": "2026-10-20",
-      "tintColor": "#FCFCFC"
-    },
-    {
       "title": "Instagram 452.0.1 업데이트",
       "identifier": "news-instagram",
       "caption": "instagram 452.0.1 버전 업데이트",
       "date": "2026-10-20",
       "tintColor": "#CB7AAE"
-    },
-    {
-      "title": "SoundCloud 8.83 업데이트",
-      "identifier": "news-soundcloud",
-      "caption": "SoundCloud 8.83 버전 업데이트",
-      "date": "2026-10-20",
-      "tintColor": "#FF5500"
     }
   ],
   "apps": [
