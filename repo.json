@@ -303,25 +303,32 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "453.0.0",
+          "date": "2026-10-27",
+          "downloadURL": "https://drive.google.com/file/d/1D00RFSP2jg-12iaJ9FSKKBoEF_PYWCAU/view?usp=drive_link",
+          "size": 110603173,
+          "localizedDescription": "Threads 453.0.0 / ThreadSaver"
+        },
+        {
           "version": "452.1.0",
           "date": "2026-10-21",
           "downloadURL": "https://drive.google.com/file/d/1gIYTFGXLenLQOw8hffYrK1nVh2Ln9Btu/view?usp=drive_link",
           "size": 110603173,
-          "localizedDescription": "Threads 452.1.0"
+          "localizedDescription": "Threads 452.1.0 / ThreadSaver"
         },
         {
           "version": "452.0.0",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/1Fs5dhpceszaRBXuZVAU_OvzgJcz69tJ2/view?usp=drive_link",
           "size": 110667815,
-          "localizedDescription": "Threads 452.0.0"
+          "localizedDescription": "Threads 452.0.0 / ThreadSaver"
         },
         {
           "version": "451.0",
           "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1JUEcFO9hQm5xPOA5m1IfNE5ihLg7SR-2/view?usp=drive_link",
           "size": 108431617,
-          "localizedDescription": "Threads 451.0.0"
+          "localizedDescription": "Threads 451.0.0 / ThreadSaver"
         }
       ]
     },
