@@ -358,7 +358,9 @@
           "downloadURL": "https://drive.google.com/file/d/1Btb3vn0xbpW7hb1nubafS73KKF5HqP8n/view?usp=drive_link",
           "size": 270972456,
           "localizedDescription": "광고제거, 다크모드를 적용한 카카오버스입니다."
-        },
+        }
+      ]
+    },
     {
       "name": "네이버 카페",
       "bundleIdentifier": "com.nhncorp.navercafe",
