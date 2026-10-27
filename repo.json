@@ -12,6 +12,13 @@
       "tintColor": "#FF0F3E"
     },
     {
+      "title": "SoundCloud 8.84.0 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 8.84.0 버전 업데이트",
+      "date": "2026-10-28",
+      "tintColor": "#FF5500"
+    },
+    {
       "title": "Threads 453.0.0 업데이트",
       "identifier": "news-threads",
       "caption": "Threads 453.0.0 버전 업데이트",
@@ -38,13 +45,6 @@
       "caption": "goodnotes 7.1.32 버전 업데이트",
       "date": "2026-10-26",
       "tintColor": "#7BDCE8"
-    },
-    {
-      "title": "SoundCloud 8.83.1 업데이트",
-      "identifier": "news-soundcloud",
-      "caption": "SoundCloud 8.83.1 버전 업데이트",
-      "date": "2026-10-26",
-      "tintColor": "#FF5500"
     },
     {
       "title": "멀티 카카옥톡 26.9.1 업데이트",
@@ -206,6 +206,13 @@
       "iconURL": "https://i.imgur.com/sHr48Ge.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "8.84.0",
+          "date": "2026-10-28",
+          "downloadURL": "https://drive.google.com/file/d/1f0qC5kNmuUil272jzKOFzVL7MSRwjImx/view?usp=drive_link",
+          "size": 227742189,
+          "localizedDescription": "각종 기능들이 탑재된 IPA입니다."
+        },
         {
           "version": "8.83.1",
           "date": "2026-10-26",
