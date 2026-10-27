@@ -334,7 +334,7 @@
       "bundleIdentifier": "com.kakao.kakaobus",
       "developerName": "Kakao Corp.",
       "subtitle": "광고제거, 다크모드 카카오버스",
-      "localizedDescription": "",
+      "localizedDescription": "광고제거, 다크모드를 적용한 카카오버스입니다.",
       "iconURL": "https://i.imgur.com/WWElP9t.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -343,7 +343,7 @@
           "date": "2026-10-27",
           "downloadURL": "https://drive.google.com/file/d/10c146rdQpzhF4lnoXzXFASbDqA64-98Q/view?usp=drive_link",
           "size": 51003881,
-          "localizedDescription": "광고제거, 다크모드를 적용한 카카오버스입니다."
+          "localizedDescription": ""
         }
       ]
     },
