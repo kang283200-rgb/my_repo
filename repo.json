@@ -419,18 +419,36 @@
       ]
     },
     {
-      "name": "Lightroom",
+      "name": "Lightroom for iPhone",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe",
       "subtitle": "AI 사진 비디오 편집 & 필터",
-      "localizedDescription": "unlock 버전",
+      "localizedDescription": "iphone용 unlock 버전",
       "iconURL": "https://i.imgur.com/S8Wfr0w.png",
       "tintColor": "#001E36",
       "versions": [
         {
-          "version": "11.16.20",
+          "version": "11.16.21",
           "date": "2026-10-28",
-          "downloadURL": "https://drive.google.com/file/d/1FS_JtH3itMvkKQzisCi5GuIswRz-6mvo/view?usp=drive_link",
+          "downloadURL": "https://drive.google.com/file/d/11KX3oCMG_aj5gJAuQWq-tHaU4_kU42iX/view?usp=drive_link",
+          "size": 222669708,
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Lightroom for iPad",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Adobe",
+      "subtitle": "AI 사진 비디오 편집 & 필터",
+      "localizedDescription": "ipad용 unlock 버전",
+      "iconURL": "https://i.imgur.com/S8Wfr0w.png",
+      "tintColor": "#001E36",
+      "versions": [
+        {
+          "version": "11.16.21",
+          "date": "2026-10-28",
+          "downloadURL": "https://drive.google.com/file/d/1r1jy2y6iudutSzVQGV5QwgA8s4D2dKLM/view?usp=drive_link",
           "size": 222669708,
           "localizedDescription": ""
         }
