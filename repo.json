@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Instagram 트윅 버전 업데이트",
+      "identifier": "news-instagram",
+      "caption": "Ryukgram 1.5.1 버전 업데이트\n앱 버전이 아닌 트윅 버전 업데이트이므로 기존 설치하신 분들은 재설치를 해주시길 바랍니다.",
+      "date": "2026-10-30",
+      "tintColor": "#CB7AAE"
+    },
+    {
       "title": "네이버카페 26.1026.0 업데이트",
       "identifier": "news-navercafe",
       "caption": "네이버카페 26.1026.0 버전 업데이트",
@@ -33,11 +40,11 @@
       "tintColor": "#060606"
     },
     {
-      "title": "Instagram 453.0.0 업데이트",
-      "identifier": "news-instagram",
-      "caption": "instagram 453.0.0 버전 업데이트",
+      "title": "Notability 16.13.3 업데이트",
+      "identifier": "news-notability",
+      "caption": "Notability 16.13.3 버전 업데이트",
       "date": "2026-10-27",
-      "tintColor": "#CB7AAE"
+      "tintColor": "#0189FF"
     },
     {
       "title": "유튜브 뮤직 9.43.2 업데이트",
@@ -59,20 +66,6 @@
       "caption": "멀티 카카옥톡 26.9.1 버전 업데이트\n카톡 링크 클릭시 메인 카톡이 실행되던 문제 수정",
       "date": "2026-10-24",
       "tintColor": "#FFE101"
-    },
-    {
-      "title": "Instagram 트윅 업데이트",
-      "identifier": "news-instagram",
-      "caption": "instagram 트윅 Ryukgram 1.5.0 버전 업데이트",
-      "date": "2026-10-24",
-      "tintColor": "#CB7AAE"
-    },
-    {
-      "title": "Notability 16.13.2 업데이트",
-      "identifier": "news-notability",
-      "caption": "Notability 16.13.2 버전 업데이트",
-      "date": "2026-10-22",
-      "tintColor": "#0189FF"
     }
   ],
   "apps": [
