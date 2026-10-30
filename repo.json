@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Wallcraft 3.43 업데이트",
+      "identifier": "news-wallcraft",
+      "caption": "wallcraft 3.43 버전 업데이트",
+      "date": "2026-10-30",
+      "tintColor": "#FFC027"
+    },
+    {
       "title": "Instagram 트윅 버전 업데이트",
       "identifier": "news-instagram",
       "caption": "Ryukgram 1.5.1 버전 업데이트\n앱 버전이 아닌 트윅 버전 업데이트이므로 기존 설치하신 분들은 재설치를 해주시길 바랍니다.",
@@ -409,6 +416,13 @@
       "iconURL": "https://i.imgur.com/rfAMi5G.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "3.43",
+          "date": "2026-10-30",
+          "downloadURL": "https://drive.google.com/file/d/1i2Zbu05EKSo3APwPdn269Rppiysb3ByT/view?usp=drive_link",
+          "size": 230641919,
+          "localizedDescription": ""
+        },
         {
           "version": "3.42",
           "date": "2026-10-17",
