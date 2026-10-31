@@ -170,7 +170,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "dayanch96",
       "subtitle": "YTMusicUltimate",
-      "localizedDescription": "설정 한글화 적용\nYTMusicUltimate",
+      "localizedDescription": "설정 한글화 적용\n< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig",
       "iconURL": "https://i.imgur.com/YiU7XqB.png",
       "tintColor": "#FF0000",
       "versions": [
@@ -179,21 +179,21 @@
           "date": "2026-10-26",
           "downloadURL": "https://drive.google.com/file/d/1GGbQln4t1L4AJOizZn_62bMiqZ9yy79g/view?usp=drive_link",
           "size": 123222594,
-          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
+          "localizedDescription": ""
         },
         {
           "version": "9.42.2",
           "date": "2026-10-20",
           "downloadURL": "https://drive.google.com/file/d/19uIwnRqri4bAjoeI82qOs36_vN2SsDnu/view?usp=drive_link",
           "size": 122759742,
-          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
+          "localizedDescription": ""
         },
         {
           "version": "9.41",
           "date": "2026-10-13",
           "downloadURL": "https://drive.google.com/file/d/1r2AJ9Efb4VxDEtI0UbKbg4kXypzCj3XX/view?usp=drive_link",
           "size": 122332866,
-          "localizedDescription": "< 적용된 트윅 >\n\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig"
+          "localizedDescription": ""
         }
       ]
     },
@@ -491,7 +491,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Giner Labs, Inc.",
       "subtitle": "Notes, Docs, PDF",
-      "localizedDescription": "Pro unlock 버전\n첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
+      "localizedDescription": "Pro unlock 버전\n\n첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
       "iconURL": "https://i.imgur.com/p1ArEhi.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -516,7 +516,7 @@
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "c22dev",
       "subtitle": "AI Notes, Docs, PDF",
-      "localizedDescription": "유료 인증서에서만 작동\nGoodnotes pro unlock 버전\n\n< 안되는 기능 >\n\n- icloud 동기화\n- IpadOS에서 작동 안되는 버그",
+      "localizedDescription": "유료 인증서에서만 작동\nGoodnotes pro unlock 버전\n< 안되는 기능 >\n\n- icloud 동기화\n- IpadOS에서 작동 안되는 버그",
       "iconURL": "https://i.imgur.com/TpWhB1Q.png",
       "tintColor": "#FFE812",
       "versions": [
