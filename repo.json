@@ -214,6 +214,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "8.85.0",
+          "date": "2026-11-02",
+          "downloadURL": "https://drive.google.com/file/d/1VuNqBmcWK9gdf4rBo4-supNhSxCQQFAC/view?usp=drive_link",
+          "size": 232391688,
+          "localizedDescription": "미디어 다운이 탑재된 IPA입니다."
+        },
+        {
           "version": "8.84.0",
           "date": "2026-10-28",
           "downloadURL": "https://drive.google.com/file/d/1f0qC5kNmuUil272jzKOFzVL7MSRwjImx/view?usp=drive_link",
