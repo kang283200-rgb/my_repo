@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "SoundCloud 8.85.0 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 8.85.0 버전 업데이트",
+      "date": "2026-11-02",
+      "tintColor": "#FF5500"
+    },
+    {
       "title": "Wallcraft 3.43 업데이트",
       "identifier": "news-wallcraft",
       "caption": "wallcraft 3.43 버전 업데이트",
@@ -31,13 +38,6 @@
       "caption": "youtube 21.43.5 버전 업데이트",
       "date": "2026-10-28",
       "tintColor": "#FF0F3E"
-    },
-    {
-      "title": "SoundCloud 8.84.0 업데이트",
-      "identifier": "news-soundcloud",
-      "caption": "SoundCloud 8.84.0 버전 업데이트",
-      "date": "2026-10-28",
-      "tintColor": "#FF5500"
     },
     {
       "title": "Threads 453.0.0 업데이트",
