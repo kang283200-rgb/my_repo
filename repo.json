@@ -5,6 +5,20 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Instagram 454.0.0 버전 업데이트",
+      "identifier": "news-instagram",
+      "caption": "Instagram 454.0.0 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#CB7AAE"
+    },
+    {
+      "title": "Threads 454.0.0 업데이트",
+      "identifier": "news-threads",
+      "caption": "Threads 454.0.0 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#060606"
+    },
+    {
       "title": "유튜브 뮤직 9.44.2 업데이트",
       "identifier": "news-ytmusic",
       "caption": "youtube music 9.44.2 버전 업데이트",
@@ -26,13 +40,6 @@
       "tintColor": "#FFC027"
     },
     {
-      "title": "Instagram 트윅 버전 업데이트",
-      "identifier": "news-instagram",
-      "caption": "Ryukgram 1.5.1 버전 업데이트\n앱 버전이 아닌 트윅 버전 업데이트이므로 기존 설치하신 분들은 재설치를 해주시길 바랍니다.",
-      "date": "2026-10-30",
-      "tintColor": "#CB7AAE"
-    },
-    {
       "title": "네이버카페 26.1026.0 업데이트",
       "identifier": "news-navercafe",
       "caption": "네이버카페 26.1026.0 버전 업데이트",
@@ -45,13 +52,6 @@
       "caption": "youtube 21.43.5 버전 업데이트",
       "date": "2026-10-28",
       "tintColor": "#FF0F3E"
-    },
-    {
-      "title": "Threads 453.0.0 업데이트",
-      "identifier": "news-threads",
-      "caption": "Threads 453.0.0 버전 업데이트",
-      "date": "2026-10-27",
-      "tintColor": "#060606"
     },
     {
       "title": "Notability 16.13.3 업데이트",
@@ -260,6 +260,13 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "454.0.0",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/1K6iYGf3qfoRjWYmzv8hjMmIKXII5tL6V/view?usp=drive_link",
+          "size": 290664285,
+          "localizedDescription": "Ryukgram 1.5.1/instagram 454.0.0"
+        },
+        {
           "version": "453.0.0",
           "date": "2026-10-30",
           "downloadURL": "https://drive.google.com/file/d/1oPFhlWiwNHUgVCYvDw0_fImZcxWxpIOK/view?usp=drive_link",
@@ -285,6 +292,13 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "454.0.0",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/1DLJO2Dw4cmAo00C56DtTaXuhWLzw0zKG/view?usp=drive_link",
+          "size": 361338517,
+          "localizedDescription": "Ryukgram 1.5.1/instagram 454.0.0"
+        },
+        {
           "version": "453.0.0",
           "date": "2026-10-30",
           "downloadURL": "https://drive.google.com/file/d/1aVBpa_yHzBx_b7izA4WADKK6q2HcHA7i/view?usp=drive_link",
@@ -309,6 +323,13 @@
       "iconURL": "https://i.imgur.com/bwulNZC.png",
       "tintColor": "#E1306C",
       "versions": [
+        {
+          "version": "454.0.0",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/17O7z6Zf4K3OsIEnVbDVi3nX4IylNaAzd/view?usp=drive_link",
+          "size": 122080446,
+          "localizedDescription": "Threads 453.0.0 / ThreadSaver"
+        },
         {
           "version": "453.0.0",
           "date": "2026-10-27",
