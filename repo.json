@@ -5,6 +5,20 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "멀티 카카옥톡 26.9.2 업데이트",
+      "identifier": "news-kakaotalk",
+      "caption": "멀티 카카옥톡 26.9.2 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#FFE101"
+    },
+    {
+      "title": "유튜브 21.44.4 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube 21.44.4 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#FF0F3E"
+    },
+    {
       "title": "Instagram 454.0.0 버전 업데이트",
       "identifier": "news-instagram",
       "caption": "Instagram 454.0.0 버전 업데이트",
@@ -47,13 +61,6 @@
       "tintColor": "#04C75C"
     },
     {
-      "title": "유튜브 21.43.5 업데이트",
-      "identifier": "news-youtube",
-      "caption": "youtube 21.43.5 버전 업데이트",
-      "date": "2026-10-28",
-      "tintColor": "#FF0F3E"
-    },
-    {
       "title": "Notability 16.13.3 업데이트",
       "identifier": "news-notability",
       "caption": "Notability 16.13.3 버전 업데이트",
@@ -66,13 +73,6 @@
       "caption": "goodnotes 7.1.32 버전 업데이트",
       "date": "2026-10-26",
       "tintColor": "#7BDCE8"
-    },
-    {
-      "title": "멀티 카카옥톡 26.9.1 업데이트",
-      "identifier": "news-kakaotalk",
-      "caption": "멀티 카카옥톡 26.9.1 버전 업데이트\n카톡 링크 클릭시 메인 카톡이 실행되던 문제 수정",
-      "date": "2026-10-24",
-      "tintColor": "#FFE101"
     }
   ],
   "apps": [
@@ -85,6 +85,13 @@
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "21.44.4",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/1w5Ik588kCh6JyJXVyRsTnM66KrYs2rBH/view?usp=drive_link",
+          "size": 159907792,
+          "localizedDescription": "YTKace 1.1.4"
+        },
         {
           "version": "21.43.5",
           "date": "2026-10-28",
@@ -143,6 +150,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "21.44.4",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/1rS2qGA-3giYWiDuhWtTyGUrKXl_57rzP/view?usp=drive_link",
+          "size": 157061398,
+          "localizedDescription": "Youmod 2.0.0"
+        },
+        {
           "version": "21.43.5",
           "date": "2026-10-28",
           "downloadURL": "https://drive.google.com/file/d/1Ya66DJeG_qYU1I122_i6sd3PMcT7dlBl/view?usp=drive_link",
@@ -154,13 +168,6 @@
           "date": "2026-10-22",
           "downloadURL": "https://drive.google.com/file/d/1CTNMRGpIfCy7weg2V1JagxKh5VHlCrHu/view?usp=drive_link",
           "size": 156451632,
-          "localizedDescription": "Youmod 2.0.0"
-        },
-        {
-          "version": "21.41.5",
-          "date": "2026-10-13",
-          "downloadURL": "https://drive.google.com/file/d/1bxgVwq1ZXdNN4PjC-oONEYmuL7da_usK/view?usp=drive_link",
-          "size": 138782576,
           "localizedDescription": "Youmod 2.0.0"
         }
       ]
@@ -369,6 +376,13 @@
       "iconURL": "https://i.imgur.com/gbrUboG.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "26.9.2",
+          "date": "2026-11-03",
+          "downloadURL": "https://drive.google.com/file/d/11v_JjdRQ6NF9L5ZUMoWWtGHYw5ZPzoxI/view?usp=drive_link",
+          "size": 263517982,
+          "localizedDescription": "멀티 카카오톡 26.9.2"
+        },
         {
           "version": "26.9.1",
           "date": "2026-10-24",
