@@ -209,7 +209,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "NexaSC",
       "subtitle": "SoundCloud",
-      "localizedDescription": "",
+      "localizedDescription": "유료 인증서",
       "iconURL": "https://i.imgur.com/sHr48Ge.png",
       "tintColor": "#FF0000",
       "versions": [
