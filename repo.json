@@ -485,6 +485,13 @@
       "tintColor": "#FFE812",
       "versions": [
         {
+          "version": "16.13.4",
+          "date": "2026-11-04",
+          "downloadURL": "https://drive.google.com/file/d/1Pdm_kURCMda7N4KFdAmrxd3VP5DZSiHr/view?usp=drive_link",
+          "size": 272016119,
+          "localizedDescription": "apple id 로그인 불가\n"
+        },
+        {
           "version": "16.13.3",
           "date": "2026-10-27",
           "downloadURL": "https://drive.google.com/file/d/1sKvLnGv19FpqfE0S1TE6G-zrPxlxXoii/view?usp=drive_link",
