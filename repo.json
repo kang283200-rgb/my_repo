@@ -5,18 +5,18 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "네이버카페 광고제거 트윅 업데이트",
+      "identifier": "news-navercafe",
+      "caption": "네이버카페 광고제거 트윅 업데이트\n아사모 카페 게시글 하단 광고(아사모 카페에서 내보내는 광고), 게시글 댓글창 하단 광고 를 추가 제거하였습니다.",
+      "date": "2026-11-04",
+      "tintColor": "#04C75C"
+    },
+    {
       "title": "유튜브 21.44.4 업데이트",
       "identifier": "news-youtube",
       "caption": "youtube 21.44.4 버전 업데이트",
       "date": "2026-11-03",
       "tintColor": "#FF0F3E"
-    },
-    {
-      "title": "네이버카페 26.1026.1 업데이트",
-      "identifier": "news-navercafe",
-      "caption": "네이버카페 26.1026.1 버전 업데이트",
-      "date": "2026-11-03",
-      "tintColor": "#04C75C"
     },
     {
       "title": "멀티 카카옥톡 26.9.2 업데이트",
@@ -394,16 +394,16 @@
         {
           "version": "26.1026.1",
           "date": "2026-11-03",
-          "downloadURL": "https://drive.google.com/file/d/1gFPmyAaDpqr1mBeEgtDuK9fezlHqljQu/view?usp=drive_link",
+          "downloadURL": "https://drive.google.com/file/d/1iI1Dd30csY3ecXvpXe1zUmtPJK5w56iq/view?usp=drive_link",
           "size": 114576164,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거\n- 광고 제거\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.6\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고\n- 게시글 댓글창 하단 광고"
         },
         {
           "version": "26.1026.0",
           "date": "2026-10-29",
           "downloadURL": "https://drive.google.com/file/d/1yNvsWgPGK9iG5gUJTLAsBq7ojKkfcIJd/view?usp=drive_link",
           "size": 114577194,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거\n- 광고 제거\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.5\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
         },
         {
           "version": "26.1016.1",
