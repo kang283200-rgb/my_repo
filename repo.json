@@ -458,24 +458,6 @@
       ]
     },
     {
-      "name": "Lightroom for iPad",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "Adobe",
-      "subtitle": "AI 사진 비디오 편집 & 필터",
-      "localizedDescription": "ipad용 unlock 버전",
-      "iconURL": "https://i.imgur.com/S8Wfr0w.png",
-      "tintColor": "#001E36",
-      "versions": [
-        {
-          "version": "11.6.21",
-          "date": "2026-10-28",
-          "downloadURL": "https://drive.google.com/file/d/1r1jy2y6iudutSzVQGV5QwgA8s4D2dKLM/view?usp=drive_link",
-          "size": 222878558,
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "Photomator",
       "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch.x.photo",
       "developerName": "Apple Inc.",
