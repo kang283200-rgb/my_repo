@@ -14,6 +14,56 @@
     {
       "title": "네이버카페 광고제거 트윅 업데이트",
       "identifier": "news-navercafe",
+      "caption": "네이버카페 광고제거 트윅 업데이트\n아사모 카페 게시글 하단 광고(아사모 카페에서 내보내는 광고), 게시글 댓글창 하단 광고 를 추가 제거하였습니다.",
+      "date": "2026-11-04",
+      "tintColor": "#04C75C"
+    },
+    {
+      "title": "유튜브 21.44.4 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube 21.44.4 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "멀티 카카옥톡 26.9.2 업데이트",
+      "identifier": "news-kakaotalk",
+      "caption": "멀티 카카옥톡 26.9.2 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#FFE101"
+    },
+    {
+      "title": "Instagram 454.0.0 버전 업데이트",
+      "identifier": "news-instagram",
+      "caption": "Instagram 454.0.0 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#CB7AAE"
+    },
+    {
+      "title": "Threads 454.0.0 업데이트",
+      "identifier": "news-threads",
+      "caption": "Threads 454.0.0 버전 업데이트",
+      "date": "2026-11-03",
+      "tintColor": "#060606"
+    },
+    {
+      "title": "유튜브 뮤직 9.44.2 업데이트",
+      "identifier": "news-ytmusic",
+      "caption": "youtube music 9.44.2 버전 업데이트",
+      "date": "2026-11-02",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "SoundCloud 8.85.0 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 8.85.0 버전 업데이트",
+      "date": "2026-11-02",
+      "tintColor": "#FF5500"
+    },
+    {
+      "title": "Wallcraft 3.43 업데이트",
+      "identifier": "news-wallcraft",
+      "caption": "wallcraft 3.43 버전 업데이트",
       "date": "2026-10-30",
       "tintColor": "#FFC027"
     },
