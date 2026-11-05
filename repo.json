@@ -387,7 +387,7 @@
       "bundleIdentifier": "com.nhncorp.navercafe",
       "developerName": "강아지DOG",
       "subtitle": "광고, 웹뷰 제거",
-      "localizedDescription": "말 그대로 네이버 카페 앱내에 광고와 웹뷰를 제거한 IPA 입니다.",
+      "localizedDescription": "말 그대로 네이버 카페 앱내에 광고와 웹뷰를 제거한 IPA 입니다.\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고\n- 게시글 댓글창 하단 광고",
       "iconURL": "https://i.imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
       "versions": [
@@ -396,21 +396,21 @@
           "date": "2026-11-03",
           "downloadURL": "https://drive.google.com/file/d/1iI1Dd30csY3ecXvpXe1zUmtPJK5w56iq/view?usp=drive_link",
           "size": 114576987,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.6\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고\n- 게시글 댓글창 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.6"
         },
         {
           "version": "26.1026.0",
           "date": "2026-10-29",
           "downloadURL": "https://drive.google.com/file/d/1yNvsWgPGK9iG5gUJTLAsBq7ojKkfcIJd/view?usp=drive_link",
           "size": 114577194,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.5\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.5"
         },
         {
           "version": "26.1016.1",
           "date": "2026-10-22",
           "downloadURL": "https://drive.google.com/file/d/1k5nvweFtPPmKecyMJ-0NEIIt3DgAmUP5/view?usp=drive_link",
           "size": 133692755,
-          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.5\n\n< 광고 제거 목록 >\n\n- 앱 초기화면 카페홈 상단, 하단 게시글 목록 사이 광고\n- 카페 진입후 최상단 게시글 위 광고\n- 게시글 목록 사이 광고\n- 게시글 내 상, 하단 광고"
+          "localizedDescription": "< 적용된 트윅 >\n\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.5"
         }
       ]
     },
