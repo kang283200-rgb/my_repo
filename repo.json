@@ -419,7 +419,7 @@
       "bundleIdentifier": "com.wallpaperscraft.wallpapers",
       "developerName": "VOLKRAFT. OOO",
       "subtitle": "Wallpaper Download",
-      "localizedDescription": "Pro unlock 버전",
+      "localizedDescription": "버전",
       "iconURL": "https://i.imgur.com/rfAMi5G.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -444,7 +444,7 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe",
       "subtitle": "AI 사진 비디오 편집 & 필터",
-      "localizedDescription": "iphone용 unlock 버전",
+      "localizedDescription": "iphone용 버전",
       "iconURL": "https://i.imgur.com/S8Wfr0w.png",
       "tintColor": "#001E36",
       "versions": [
@@ -462,7 +462,7 @@
       "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch.x.photo",
       "developerName": "Apple Inc.",
       "subtitle": "Photo-editor",
-      "localizedDescription": "Lifetime unlock 버전",
+      "localizedDescription": "버전",
       "iconURL": "https://i.imgur.com/IeKF7Pj.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -480,7 +480,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Giner Labs, Inc.",
       "subtitle": "Notes, Docs, PDF",
-      "localizedDescription": "Pro unlock 버전\n\n첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
+      "localizedDescription": "버전\n\n첫 강의부터 다음 중요한 회의까지, Notability는 더 효율적으로 생각하고, 배우고, 일할 수 있도록 도와줍니다. 손글씨 메모, 문서 주석 달기, 오디오 녹음 등 모든 것을 한 곳에서 관리하여 아이디어를 항상 명확하고 검색 가능하며 필요할 때 바로 사용할 수 있도록 하세요.",
       "iconURL": "https://i.imgur.com/p1ArEhi.png",
       "tintColor": "#FFE812",
       "versions": [
@@ -512,7 +512,7 @@
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "c22dev",
       "subtitle": "AI Notes, Docs, PDF",
-      "localizedDescription": "유료 인증서에서만 작동\nGoodnotes pro unlock 버전\n< 안되는 기능 >\n\n- icloud 동기화\n- IpadOS에서 작동 안되는 버그",
+      "localizedDescription": "유료 인증서에서만 작동\n버전\n< 안되는 기능 >\n\n- icloud 동기화\n- IpadOS에서 작동 안되는 버그",
       "iconURL": "https://i.imgur.com/TpWhB1Q.png",
       "tintColor": "#FFE812",
       "versions": [
