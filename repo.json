@@ -219,13 +219,6 @@
           "downloadURL": "https://drive.google.com/file/d/1PJCaPt9VzcW5W2zHQwwJzySY7MHDKFsx/view?usp=drive_link",
           "size": 227377895,
           "localizedDescription": "미디어 다운이 탑재된 IPA입니다."
-        },
-        {
-          "version": "8.82.0",
-          "date": "2026-10-13",
-          "downloadURL": "https://drive.google.com/file/d/1rFNbkPoEdRvO_LsVu3Chm5JOdBIC7Haa/view?usp=drive_link",
-          "size": 227238033,
-          "localizedDescription": "미디어 다운이 탑재된 IPA입니다."
         }
       ]
     },
@@ -238,6 +231,13 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "versions": [
+        {
+          "version": "454.1.0",
+          "date": "2026-11-05",
+          "downloadURL": "https://drive.google.com/file/d/18lqpv4JTOqpxO4AKSjltoOiG_21LHWbj/view?usp=drive_link",
+          "size": 399167035,
+          "localizedDescription": "Ryukgram 1.5.1/instagram 454.1.0"
+        },
         {
           "version": "454.0.0",
           "date": "2026-11-03",
@@ -270,6 +270,13 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "versions": [
+        {
+          "version": "454.1.0",
+          "date": "2026-11-05",
+          "downloadURL": "https://drive.google.com/file/d/1cMzoVsOOt2TvN40Qa_7gAxEauJAzC0XN/view?usp=drive_link",
+          "size": 399167035,
+          "localizedDescription": "Ryukgram 1.5.1/instagram 454.1.0"
+        },
         {
           "version": "454.0.0",
           "date": "2026-11-03",
@@ -329,13 +336,6 @@
           "downloadURL": "https://drive.google.com/file/d/1Fs5dhpceszaRBXuZVAU_OvzgJcz69tJ2/view?usp=drive_link",
           "size": 110667815,
           "localizedDescription": "Threads 452.0.0 / ThreadSaver"
-        },
-        {
-          "version": "451.0",
-          "date": "2026-10-13",
-          "downloadURL": "https://drive.google.com/file/d/1JUEcFO9hQm5xPOA5m1IfNE5ihLg7SR-2/view?usp=drive_link",
-          "size": 108431617,
-          "localizedDescription": "Threads 451.0.0 / ThreadSaver"
         }
       ]
     },
@@ -448,6 +448,13 @@
       "iconURL": "https://i.imgur.com/S8Wfr0w.png",
       "tintColor": "#001E36",
       "versions": [
+        {
+          "version": "12.0.0",
+          "date": "2026-11-05",
+          "downloadURL": "https://drive.google.com/file/d/1cq9B01kuzeJTTKA2JB0voJ4uFWlNYglD/view?usp=drive_link",
+          "size": 222689421,
+          "localizedDescription": ""
+        },
         {
           "version": "11.6.21",
           "date": "2026-10-28",
