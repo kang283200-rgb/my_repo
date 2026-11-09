@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "유튜브 21.45.2 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube 21.45.2 버전 업데이트",
+      "date": "2026-11-09",
+      "tintColor": "#FF0F3E"
+    },
+    {
       "title": "유튜브 뮤직 9.45.2 업데이트",
       "identifier": "news-ytmusic",
       "caption": "youtube music 9.45.2 버전 업데이트",
@@ -24,13 +31,6 @@
       "caption": "네이버카페 광고제거 트윅 업데이트\n아사모 카페 게시글 하단 광고(아사모 카페에서 내보내는 광고), 게시글 댓글창 하단 광고 를 추가 제거하였습니다.",
       "date": "2026-11-04",
       "tintColor": "#04C75C"
-    },
-    {
-      "title": "유튜브 21.44.4 업데이트",
-      "identifier": "news-youtube",
-      "caption": "youtube 21.44.4 버전 업데이트",
-      "date": "2026-11-03",
-      "tintColor": "#FF0F3E"
     },
     {
       "title": "멀티 카카옥톡 26.9.2 업데이트",
@@ -86,6 +86,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "21.45.2",
+          "date": "2026-11-09",
+          "downloadURL": "https://drive.google.com/file/d/1cMRJNdRZMZeHpSzZHkCAyMDjzsMWBfsC/view?usp=drive_link",
+          "size": 154383723,
+          "localizedDescription": "YTKace 1.1.5"
+        },
+        {
           "version": "21.44.4",
           "date": "2026-11-04",
           "downloadURL": "https://drive.google.com/file/d/1gKsnSdr33Y9lbJvmByJ1MTB4IREn5OOS/view?usp=drive_link",
@@ -104,6 +111,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "21.45.2",
+          "date": "2026-11-09",
+          "downloadURL": "https://drive.google.com/file/d/1v0pcV7u1lralJ32opGz3S6o3T5v0YK5f/view?usp=drive_link",
+          "size": 172650691,
+          "localizedDescription": "YTPlus 6.0"
+        }
+        {
           "version": "21.44.4",
           "date": "2026-11-03",
           "downloadURL": "https://drive.google.com/file/d/1AHd0VDeBup7p_OsimzgA0PIbwdtsVO2n/view?usp=drive_link",
@@ -121,6 +135,13 @@
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "21.45.2",
+          "date": "2026-11-09",
+          "downloadURL": "https://drive.google.com/file/d/1ds42C9k62QR-DxWSIqDDxaJoG_nmIB2G/view?usp=drive_link",
+          "size": 151179210,
+          "localizedDescription": "Youmod 2.0.0"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-03",
