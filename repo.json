@@ -5,10 +5,17 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
-      "title": "네이버카페 26.1026.2 버전 업데이트",
+      "title": "유튜브 YTKace 1.1.6 트윅 버전 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube YTKace 1.1.6 트윅 버전 업데이트",
+      "date": "2026-11-11",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "네이버카페 26.1026.3 버전 업데이트",
       "identifier": "news-navercafe",
-      "caption": "네이버카페 26.1026.2 버전 업데이트",
-      "date": "2026-11-10",
+      "caption": "네이버카페 26.1026.3 버전 업데이트",
+      "date": "2026-11-11",
       "tintColor": "#04C75C"
     },
     {
@@ -47,13 +54,6 @@
       "tintColor": "#FF5500"
     },
     {
-      "title": "유튜브 21.45.4 업데이트",
-      "identifier": "news-youtube",
-      "caption": "youtube 21.45.4 버전 업데이트",
-      "date": "2026-11-09",
-      "tintColor": "#FF0F3E"
-    },
-    {
       "title": "유튜브 뮤직 9.45.2 업데이트",
       "identifier": "news-ytmusic",
       "caption": "youtube music 9.45.2 버전 업데이트",
@@ -87,10 +87,10 @@
       "versions": [
         {
           "version": "21.45.4",
-          "date": "2026-11-09",
+          "date": "2026-11-11",
           "downloadURL": "https://drive.google.com/file/d/1cMRJNdRZMZeHpSzZHkCAyMDjzsMWBfsC/view?usp=drive_link",
           "size": 143913296,
-          "localizedDescription": "YTKace 1.1.5"
+          "localizedDescription": "YTKace 1.1.6"
         }
       ]
     },
@@ -391,6 +391,13 @@
       "iconURL": "https://i.imgur.com/hs4FJKd.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "26.1026.3",
+          "date": "2026-11-11",
+          "downloadURL": "https://drive.google.com/file/d/1diKEDhswA10Atys0t3eE5Ab35HB-e4p8/view?usp=drive_link",
+          "size": 114580679,
+          "localizedDescription": "< 적용된 트윅 >\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.6"
+        },
         {
           "version": "26.1026.2",
           "date": "2026-11-10",
