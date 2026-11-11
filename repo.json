@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "카카오버스 5.13.0 버전 업데이트",
+      "identifier": "news-kakaobus",
+      "caption": "카카오버스 5.13.0 버전 업데이트",
+      "date": "2026-11-11",
+      "tintColor": "#FF0F3E"
+    },
+    {
       "title": "유튜브 YTKace 1.1.7 트윅 버전 업데이트",
       "identifier": "news-youtube",
       "caption": "youtube YTKace 1.1.7 트윅 버전 업데이트",
@@ -373,6 +380,13 @@
       "iconURL": "https://i.imgur.com/WWElP9t.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "5.13.0",
+          "date": "2026-11-11",
+          "downloadURL": "https://drive.google.com/file/d/1TihfPnM7m3oPS_rSEKGMiXjIw2TuOjt1/view?usp=drive_link",
+          "size": 53137662,
+          "localizedDescription": ""
+        },
         {
           "version": "5.12.0",
           "date": "2026-10-27",
