@@ -5,6 +5,20 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "유튜브 뮤직 9.46.3 업데이트",
+      "identifier": "news-ytmusic",
+      "caption": "youtube music 9.46.3 버전 업데이트",
+      "date": "2026-11-16",
+      "tintColor": "#FF0F3E"
+    },
+    {
+      "title": "유튜브 21.46.3 버전 업데이트",
+      "identifier": "news-youtube",
+      "caption": "youtube 21.46.3 버전 업데이트",
+      "date": "2026-11-16",
+      "tintColor": "#FF0F3E"
+    },
+    {
       "title": "네이버카페 26.1026.4 버전 업데이트",
       "identifier": "news-navercafe",
       "caption": "네이버카페 26.1026.4 버전 업데이트",
@@ -17,13 +31,6 @@
       "caption": "카카오버스 5.13.0 버전 업데이트",
       "date": "2026-11-11",
       "tintColor": "#FAE200"
-    },
-    {
-      "title": "유튜브 YTKace 1.1.7 트윅 버전 업데이트",
-      "identifier": "news-youtube",
-      "caption": "youtube YTKace 1.1.7 트윅 버전 업데이트",
-      "date": "2026-11-11",
-      "tintColor": "#FF0F3E"
     },
     {
       "title": "Instagram 455.0.0 버전 업데이트",
@@ -61,13 +68,6 @@
       "tintColor": "#FF5500"
     },
     {
-      "title": "유튜브 뮤직 9.45.2 업데이트",
-      "identifier": "news-ytmusic",
-      "caption": "youtube music 9.45.2 버전 업데이트",
-      "date": "2026-11-09",
-      "tintColor": "#FF0F3E"
-    },
-    {
       "title": "멀티 카카옥톡 26.9.2 업데이트",
       "identifier": "news-kakaotalk",
       "caption": "멀티 카카옥톡 26.9.2 버전 업데이트",
@@ -84,24 +84,6 @@
   ],
   "apps": [
     {
-      "name": "YouTube (YTKace)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace",
-      "developerName": "itzzace",
-      "subtitle": "YTKace",
-      "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- YTKace 1.1.4\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouChooseQuality\n- YouMute\n- YouLoop\n- YouQuality\n- YouSpeed\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
-      "iconURL": "https://i.imgur.com/G0OGI5n.png",
-      "tintColor": "#FF0000",
-      "versions": [
-        {
-          "version": "21.45.4",
-          "date": "2026-11-11",
-          "downloadURL": "https://drive.google.com/file/d/17lY-QIX32-vkjmEV7uSY8ZZFec15duFT/view?usp=drive_link",
-          "size": 144012481,
-          "localizedDescription": "YTKace 1.1.7"
-        }
-      ]
-    },
-    {
       "name": "YouTube (YTPlus)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "dayanch96",
@@ -111,11 +93,43 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "21.46.3",
+          "date": "2026-11-16",
+          "downloadURL": "https://drive.google.com/file/d/1NCjqG9kgqmchSGj-UuyejCgEYzdOj03-/view?usp=drive_link",
+          "size": 178417344,
+          "localizedDescription": "YTPlus 6.0"
+        },
+        {
           "version": "21.45.4",
           "date": "2026-11-09",
           "downloadURL": "https://drive.google.com/file/d/1v0pcV7u1lralJ32opGz3S6o3T5v0YK5f/view?usp=drive_link",
           "size": 178417344,
           "localizedDescription": "YTPlus 6.0"
+        }
+      ]
+    },
+    {
+      "name": "YouTube (YTKace)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace",
+      "developerName": "itzzace",
+      "subtitle": "YTKace",
+      "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- YTKace 1.1.8\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouChooseQuality\n- YouMute\n- YouLoop\n- YouQuality\n- YouSpeed\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
+      "iconURL": "https://i.imgur.com/G0OGI5n.png",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "21.46.3",
+          "date": "2026-11-16",
+          "downloadURL": "https://drive.google.com/file/d/1oHlDUk5YO_vwIvjeeIrjvtjvdoULGTEJ/view?usp=drive_link",
+          "size": 144012481,
+          "localizedDescription": "YTKace 1.1.8"
+        },
+        {
+          "version": "21.45.4",
+          "date": "2026-11-11",
+          "downloadURL": "https://drive.google.com/file/d/17lY-QIX32-vkjmEV7uSY8ZZFec15duFT/view?usp=drive_link",
+          "size": 144012481,
+          "localizedDescription": "YTKace 1.1.7"
         }
       ]
     },
@@ -146,6 +160,13 @@
       "iconURL": "https://i.imgur.com/YiU7XqB.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "9.46.3",
+          "date": "2026-11-16",
+          "downloadURL": "https://drive.google.com/file/d/1FP1kWFbGM95wRFpdnfYt7MaXaoc-xg93/view?usp=drive_link",
+          "size": 125355824,
+          "localizedDescription": ""
+        },
         {
           "version": "9.45.2",
           "date": "2026-11-09",
