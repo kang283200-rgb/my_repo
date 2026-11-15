@@ -93,13 +93,6 @@
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "21.46.3",
-          "date": "2026-11-16",
-          "downloadURL": "https://drive.google.com/file/d/1NCjqG9kgqmchSGj-UuyejCgEYzdOj03-/view?usp=drive_link",
-          "size": 167278653,
-          "localizedDescription": "YTPlus 6.0"
-        },
-        {
           "version": "21.45.4",
           "date": "2026-11-09",
           "downloadURL": "https://drive.google.com/file/d/1v0pcV7u1lralJ32opGz3S6o3T5v0YK5f/view?usp=drive_link",
@@ -117,13 +110,6 @@
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
-        {
-          "version": "21.46.3",
-          "date": "2026-11-16",
-          "downloadURL": "https://drive.google.com/file/d/1oHlDUk5YO_vwIvjeeIrjvtjvdoULGTEJ/view?usp=drive_link",
-          "size": 149645534,
-          "localizedDescription": "YTKace 1.1.8"
-        },
         {
           "version": "21.45.4",
           "date": "2026-11-11",
