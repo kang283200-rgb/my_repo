@@ -142,7 +142,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "dayanch96",
       "subtitle": "YTMusicUltimate",
-      "localizedDescription": "설정 한글화 적용\n< 적용된 트윅 >\n- YTMusicUltimate 2.4.1\n- ReturnYouTubeMusicDislikes\n- YTMABConfig",
+      "localizedDescription": "설정 한글화 적용\n< 적용된 트윅 >\n- YTMusicUltimate 2.4.1+\n- ReturnYouTubeMusicDislikes\n- YTMABConfig",
       "iconURL": "https://i.imgur.com/YiU7XqB.png",
       "tintColor": "#FF0000",
       "versions": [
