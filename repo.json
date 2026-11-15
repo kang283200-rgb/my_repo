@@ -93,6 +93,13 @@
       "tintColor": "#FF0000",
       "versions": [
         {
+          "version": "21.46.3",
+          "date": "2026-11-16",
+          "downloadURL": "https://drive.google.com/file/d/1NCjqG9kgqmchSGj-UuyejCgEYzdOj03-/view?usp=drive_link",
+          "size": 178417344,
+          "localizedDescription": "YTPlus 6.0"
+        },
+        {
           "version": "21.45.4",
           "date": "2026-11-09",
           "downloadURL": "https://drive.google.com/file/d/1v0pcV7u1lralJ32opGz3S6o3T5v0YK5f/view?usp=drive_link",
