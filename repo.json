@@ -134,24 +134,6 @@
       ]
     },
     {
-      "name": "YouTube (Youmod)",
-      "bundleIdentifier": "com.google.ios.youtube.youmod",
-      "developerName": "Tonwalter888",
-      "subtitle": "Youmod",
-      "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- Youmod 2.0.0\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
-      "iconURL": "https://i.imgur.com/G0OGI5n.png",
-      "tintColor": "#FF0000",
-      "versions": [
-        {
-          "version": "21.45.4",
-          "date": "2026-11-09",
-          "downloadURL": "https://drive.google.com/file/d/1ds42C9k62QR-DxWSIqDDxaJoG_nmIB2G/view?usp=drive_link",
-          "size": 141472857,
-          "localizedDescription": "Youmod 2.0.0"
-        }
-      ]
-    },
-    {
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "dayanch96",
