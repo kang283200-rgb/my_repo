@@ -85,10 +85,10 @@
   "apps": [
     {
       "name": "YouTube (YTPlus)",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus",
       "developerName": "dayanch96",
       "subtitle": "YTPlus",
-      "localizedDescription": "< 적용된 트윅 >\n- YTPlus 6.0\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
+      "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- YTPlus 6.0\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouMute\n- YouLoop\n- YouQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
@@ -98,22 +98,15 @@
           "downloadURL": "https://drive.google.com/file/d/1NCjqG9kgqmchSGj-UuyejCgEYzdOj03-/view?usp=drive_link",
           "size": 165483224,
           "localizedDescription": "YTPlus 6.0"
-        },
-        {
-          "version": "21.45.4",
-          "date": "2026-11-09",
-          "downloadURL": "https://drive.google.com/file/d/1v0pcV7u1lralJ32opGz3S6o3T5v0YK5f/view?usp=drive_link",
-          "size": 178417344,
-          "localizedDescription": "YTPlus 6.0"
         }
       ]
     },
     {
       "name": "YouTube (YTKace)",
-      "bundleIdentifier": "com.google.ios.youtube.ytkace",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "itzzace",
       "subtitle": "YTKace",
-      "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- YTKace 1.1.8\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouChooseQuality\n- YouMute\n- YouLoop\n- YouQuality\n- YouSpeed\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
+      "localizedDescription": "< 적용된 트윅 >\n- YTKace 1.1.8\n- YouGroupSettings\n- DonEatMyContent\n- YouTubeDislikesReturn\n- YouPiP\n- YTVideoOverlay\n- YTHoldForSpeed\n- YouChooseQuality\n- YouMute\n- YouLoop\n- YouQuality\n- YouSpeed\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
       "versions": [
@@ -123,13 +116,6 @@
           "downloadURL": "https://drive.google.com/file/d/1oHlDUk5YO_vwIvjeeIrjvtjvdoULGTEJ/view?usp=drive_link",
           "size": 145563489,
           "localizedDescription": "YTKace 1.1.8"
-        },
-        {
-          "version": "21.45.4",
-          "date": "2026-11-11",
-          "downloadURL": "https://drive.google.com/file/d/17lY-QIX32-vkjmEV7uSY8ZZFec15duFT/view?usp=drive_link",
-          "size": 144012481,
-          "localizedDescription": "YTKace 1.1.7"
         }
       ]
     },
