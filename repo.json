@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "SoundCloud 9.0.0 업데이트",
+      "identifier": "news-soundcloud",
+      "caption": "SoundCloud 9.0.0 버전 업데이트",
+      "date": "2026-11-16",
+      "tintColor": "#FF5500"
+    },
+    {
       "title": "유튜브 뮤직 9.46.3 업데이트",
       "identifier": "news-ytmusic",
       "caption": "youtube music 9.46.3 버전 업데이트",
@@ -59,13 +66,6 @@
       "caption": "Notability 16.13.5 버전 업데이트",
       "date": "2026-11-10",
       "tintColor": "#0189FF"
-    },
-    {
-      "title": "SoundCloud 8.86.0 업데이트",
-      "identifier": "news-soundcloud",
-      "caption": "SoundCloud 8.86.0 버전 업데이트",
-      "date": "2026-11-09",
-      "tintColor": "#FF5500"
     },
     {
       "title": "멀티 카카옥톡 26.9.2 업데이트",
@@ -188,6 +188,13 @@
       "iconURL": "https://i.imgur.com/sHr48Ge.png",
       "tintColor": "#FF0000",
       "versions": [
+        {
+          "version": "9.0.0",
+          "date": "2026-11-16",
+          "downloadURL": "https://drive.google.com/file/d/1bbKaORS5LmlSIFRUODpfBIGRfprz3sPU/view?usp=drive_link",
+          "size": 214716051,
+          "localizedDescription": "NexaSC b5 적용"
+        },
         {
           "version": "8.86.0",
           "date": "2026-11-09",
