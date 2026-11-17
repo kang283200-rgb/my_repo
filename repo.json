@@ -5,9 +5,9 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
-      "title": "지금 트래픽 일일한도 넘어서 다운이 안됩니다.",
+      "title": "다운로드 방식 변경 !필독!.",
       "identifier": "news-trapic",
-      "caption": "번거우로시겠지만 소스 사파리로 접속하셔서 직접 ipa 다운받아서 설치해주세요.",
+      "caption": "다운로드 방식을 바꿔서 다운 받으면 다운로드 %가 진행이 안되고 0%으로 나올텐데 표기만 그런거고 다운이 끝나고 라이브러리(feather 기준)에 보시면 정상적으로 다운되어 있습니다.",
       "date": "2026-11-17",
       "tintColor": "#CB7AAE"
     },
