@@ -315,23 +315,23 @@
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "mumuisdog",
       "subtitle": "유료 인증서",
-      "localizedDescription": "설정 한글화\n홈버튼 꾹 눌러 설정 진입\n각종 기능들이 탑재된 IPA입니다.",
+      "localizedDescription": "홈버튼 꾹 눌러 설정 진입\n각종 기능들이 탑재된 IPA입니다.",
       "iconURL": "https://i.imgur.com/bwulNZC.png",
       "tintColor": "#E1306C",
       "versions": [
         {
           "version": "456.0.0",
           "date": "2026-11-17",
-          "downloadURL": "https://drive.google.com/file/d/1pxAz9VCmoitSkOP5OUGXqNHdl20v-K0W/view?usp=drive_link",
+          "downloadURL": "https://drive.google.com/file/d/1eCF5T7LyxRB6vP-GkxEjzyWOeVidYpDl/view?usp=drive_link",
           "size": 122588952,
-          "localizedDescription": "Threads 457.0.0 / ThreadPulse v12.9.4"
+          "localizedDescription": "Threads 456.0.0 / ThreadPulse v1.30.0"
         },
         {
           "version": "455.0.0",
           "date": "2026-11-16",
           "downloadURL": "https://drive.google.com/file/d/1RYfCA9bWKJQGe9eZV6canJ1g2oHX0RnM/view?usp=drive_link",
           "size": 120630492,
-          "localizedDescription": "Threads 455.0.0 / ThreadPulse v12.9.4"
+          "localizedDescription": "Threads 455.0.0 / ThreadPulse v1.29.4"
         }
       ]
     },
@@ -340,23 +340,23 @@
       "bundleIdentifier": "com.burbn.barcelona.noplugin",
       "developerName": "mumuisdog",
       "subtitle": "사이드 스토어",
-      "localizedDescription": "설정 한글화\n홈버튼 꾹 눌러 설정 진입\n각종 기능들이 탑재된 IPA입니다.",
+      "localizedDescription": "홈버튼 꾹 눌러 설정 진입\n각종 기능들이 탑재된 IPA입니다.",
       "iconURL": "https://i.imgur.com/bwulNZC.png",
       "tintColor": "#E1306C",
       "versions": [
         {
           "version": "456.0.0",
           "date": "2026-11-17",
-          "downloadURL": "https://drive.google.com/file/d/1IMsW2xu541sUjdIPmlrSplCQ4qlLIZo2/view?usp=drive_link",
+          "downloadURL": "https://drive.google.com/file/d/1KrTlOgu1ovLWGrmqMb5z_qI9ox6y-87A/view?usp=drive_link",
           "size": 107125406,
-          "localizedDescription": "Threads 457.0.0 / ThreadPulse v12.9.4"
+          "localizedDescription": "Threads 456.0.0 / ThreadPulse v1.30.0"
         },
         {
           "version": "455.0.0",
           "date": "2026-11-16",
           "downloadURL": "https://drive.google.com/file/d/19phJWuPlRPs7gQ8ylWXpts_Ya8ptltjD/view?usp=drive_link",
           "size": 105418607,
-          "localizedDescription": "Threads 455.0.0 / ThreadPulse v12.9.4"
+          "localizedDescription": "Threads 455.0.0 / ThreadPulse v1.29.4"
         }
       ]
     },
