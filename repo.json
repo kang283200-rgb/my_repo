@@ -373,12 +373,12 @@
       "developerName": "Kakao Corp.",
       "subtitle": "순정 멀티 카카오톡",
       "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/gbrUboG.png",
+      "iconURL": "https://i.imgur.com/cYgUCVg.png",
       "tintColor": "#FFE812",
       "versions": [
         {
           "version": "26.10.1",
-          "date": "2026-11-19",
+          "date": "2026-11-20",
           "downloadURL": "https://drive.google.com/file/d/1gQcqqCIHYH5JEs-yvPJtQw5eokN1Luwe/view?usp=drive_link",
           "size": 273506790,
           "localizedDescription": "멀티 카카오톡 26.10.1"
