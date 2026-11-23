@@ -5,18 +5,25 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Instagram 457.0.0 버전 업데이트",
+      "identifier": "news-instagram",
+      "caption": "Instagram 457.0.0 버전 업데이트",
+      "date": "2026-11-23",
+      "tintColor": "#CB7AAE"
+    },
+    {
+      "title": "Wallcraft 3.44 업데이트",
+      "identifier": "news-wallcraft",
+      "caption": "wallcraft 3.44 버전 업데이트",
+      "date": "2026-11-23",
+      "tintColor": "#FFC027"
+    }
+    {
       "title": "유튜브 21.47.6 버전 업데이트",
       "identifier": "news-youtube",
       "caption": "youtube 21.47.6 버전 업데이트",
       "date": "2026-11-23",
       "tintColor": "#FF0F3E"
-    },
-    {
-      "title": "Instagram 트윅 Ryukgram 1.6.0 버전 업데이트",
-      "identifier": "news-instagram",
-      "caption": "Instagram 트윅 Ryukgram 1.6.0 버전 업데이트",
-      "date": "2026-11-23",
-      "tintColor": "#CB7AAE"
     },
     {
       "title": "Threads 트윅 버전 업데이트",
@@ -73,13 +80,6 @@
       "caption": "goodnotes 7.1.36 버전 업데이트",
       "date": "2026-11-10",
       "tintColor": "#7BDCE8"
-    },
-    {
-      "title": "Wallcraft 3.43 업데이트",
-      "identifier": "news-wallcraft",
-      "caption": "wallcraft 3.43 버전 업데이트",
-      "date": "2026-10-30",
-      "tintColor": "#FFC027"
     }
   ],
   "apps": [
@@ -155,41 +155,6 @@
           "downloadURL": "https://drive.google.com/file/d/1LmW8JBXhtP9zKvFadxwFu-jI2u-REsLC/view?usp=drive_link",
           "size": 110317788,
           "localizedDescription": ""
-        },
-        {
-          "version": "9.46.3",
-          "date": "2026-11-16",
-          "downloadURL": "https://drive.google.com/file/d/1FP1kWFbGM95wRFpdnfYt7MaXaoc-xg93/view?usp=drive_link",
-          "size": 125780505,
-          "localizedDescription": ""
-        },
-        {
-          "version": "9.45.2",
-          "date": "2026-11-09",
-          "downloadURL": "https://drive.google.com/file/d/1Q_pASKCfZRhM16IImFLo0kBMh1CVjZ59/view?usp=drive_link",
-          "size": 125355824,
-          "localizedDescription": ""
-        },
-        {
-          "version": "9.44.2",
-          "date": "2026-11-02",
-          "downloadURL": "https://drive.google.com/file/d/1C-zXaerTv_QZTR2iIx_bcpW2qTVBxzNV/view?usp=drive_link",
-          "size": 123947253,
-          "localizedDescription": ""
-        },
-        {
-          "version": "9.43.2",
-          "date": "2026-10-26",
-          "downloadURL": "https://drive.google.com/file/d/1GGbQln4t1L4AJOizZn_62bMiqZ9yy79g/view?usp=drive_link",
-          "size": 123222594,
-          "localizedDescription": ""
-        },
-        {
-          "version": "9.42.2",
-          "date": "2026-10-20",
-          "downloadURL": "https://drive.google.com/file/d/19uIwnRqri4bAjoeI82qOs36_vN2SsDnu/view?usp=drive_link",
-          "size": 122759742,
-          "localizedDescription": ""
         }
       ]
     },
@@ -222,27 +187,6 @@
           "downloadURL": "https://drive.google.com/file/d/1VuNqBmcWK9gdf4rBo4-supNhSxCQQFAC/view?usp=drive_link",
           "size": 245276851,
           "localizedDescription": "NexaSC b5 적용"
-        },
-        {
-          "version": "8.84.0",
-          "date": "2026-10-28",
-          "downloadURL": "https://drive.google.com/file/d/1f0qC5kNmuUil272jzKOFzVL7MSRwjImx/view?usp=drive_link",
-          "size": 232391688,
-          "localizedDescription": "NexaSC b4 적용"
-        },
-        {
-          "version": "8.83.1",
-          "date": "2026-10-26",
-          "downloadURL": "https://drive.google.com/file/d/1T4oA9JZm4dRelpsTOx0giIQfL81BvDCE/view?usp=drive_link",
-          "size": 227742189,
-          "localizedDescription": "NexaSC b4 적용"
-        },
-        {
-          "version": "8.83.0",
-          "date": "2026-10-20",
-          "downloadURL": "https://drive.google.com/file/d/1PJCaPt9VzcW5W2zHQwwJzySY7MHDKFsx/view?usp=drive_link",
-          "size": 227377895,
-          "localizedDescription": "NexaSC b4 적용"
         }
       ]
     },
@@ -256,39 +200,18 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "457.0.0",
+          "date": "2026-11-23",
+          "downloadURL": "https://drive.google.com/file/d/1BcNwN3nuWkZQctWlHI8DBmeZdjKwsug4/view?usp=drive_link",
+          "size": 395478413,
+          "localizedDescription": "Ryukgram 1.6.0/instagram 457.0.0"
+        },
+        {
           "version": "456.0.0",
           "date": "2026-11-23",
           "downloadURL": "https://drive.google.com/file/d/145ghuUlzmRkEosW3o3bY10krmu3tmg9l/view?usp=drive_link",
           "size": 395478413,
           "localizedDescription": "Ryukgram 1.6.0/instagram 456.0.0"
-        },
-        {
-          "version": "455.0.0",
-          "date": "2026-11-10",
-          "downloadURL": "https://drive.google.com/file/d/1sjNtbfTnTpp8TLbsNtTTGpxYgrL-g3Mg/view?usp=drive_link",
-          "size": 382445831,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 455.0.0"
-        },
-        {
-          "version": "454.1.0",
-          "date": "2026-11-05",
-          "downloadURL": "https://drive.google.com/file/d/1cMzoVsOOt2TvN40Qa_7gAxEauJAzC0XN/view?usp=drive_link",
-          "size": 399080544,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 454.1.0"
-        },
-        {
-          "version": "454.0.0",
-          "date": "2026-11-03",
-          "downloadURL": "https://drive.google.com/file/d/1DLJO2Dw4cmAo00C56DtTaXuhWLzw0zKG/view?usp=drive_link",
-          "size": 399167035,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 454.0.0"
-        },
-        {
-          "version": "453.0.0",
-          "date": "2026-10-30",
-          "downloadURL": "https://drive.google.com/file/d/1aVBpa_yHzBx_b7izA4WADKK6q2HcHA7i/view?usp=drive_link",
-          "size": 361338517,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 453.0.0"
         }
       ]
     },
@@ -302,39 +225,18 @@
       "tintColor": "#E1306C",
       "versions": [
         {
+          "version": "457.0.0",
+          "date": "2026-11-23",
+          "downloadURL": "https://drive.google.com/file/d/1YOAfpT0z9I3MniiWnvYEjPfXSNeyrOdZ/view?usp=drive_link",
+          "size": 327500415,
+          "localizedDescription": "Ryukgram 1.6.0/instagram 457.0.0"
+        },
+        {
           "version": "456.0.0",
           "date": "2026-11-23",
           "downloadURL": "https://drive.google.com/file/d/1HYs7JkavLvA243vedGI7N7ScB8aKZdAJ/view?usp=drive_link",
           "size": 327500415,
           "localizedDescription": "Ryukgram 1.6.0/instagram 456.0.0"
-        },
-        {
-          "version": "455.0.0",
-          "date": "2026-11-10",
-          "downloadURL": "https://drive.google.com/file/d/1RZBGUpbSHpCrG-04GAbyTM0125V9fbfP/view?usp=drive_link",
-          "size": 312068246,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 455.0.0"
-        },
-        {
-          "version": "454.1.0",
-          "date": "2026-11-05",
-          "downloadURL": "https://drive.google.com/file/d/18lqpv4JTOqpxO4AKSjltoOiG_21LHWbj/view?usp=drive_link",
-          "size": 310023445,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 454.1.0"
-        },
-        {
-          "version": "454.0.0",
-          "date": "2026-11-03",
-          "downloadURL": "https://drive.google.com/file/d/1K6iYGf3qfoRjWYmzv8hjMmIKXII5tL6V/view?usp=drive_link",
-          "size": 310107722,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 454.0.0"
-        },
-        {
-          "version": "453.0.0",
-          "date": "2026-10-30",
-          "downloadURL": "https://drive.google.com/file/d/1oPFhlWiwNHUgVCYvDw0_fImZcxWxpIOK/view?usp=drive_link",
-          "size": 290664285,
-          "localizedDescription": "Ryukgram 1.5.1/instagram 453.0.0"
         }
       ]
     },
@@ -515,17 +417,17 @@
       "tintColor": "#FFE812",
       "versions": [
         {
-          "version": "3.43",
-          "date": "2026-10-30",
-          "downloadURL": "https://drive.google.com/file/d/1i2Zbu05EKSo3APwPdn269Rppiysb3ByT/view?usp=drive_link",
+          "version": "3.44",
+          "date": "2026-11-23",
+          "downloadURL": "https://drive.google.com/file/d/1fp_t8AYgiraUoIx4VnxKmoHYMKhEGK30/view?usp=drive_link",
           "size": 129650639,
           "localizedDescription": ""
         },
         {
-          "version": "3.42",
-          "date": "2026-10-17",
-          "downloadURL": "https://drive.google.com/file/d/1oFxTMN9zF5E3B7t1a0cBwGrnG7Ch0lKJ/view?usp=drive_link",
-          "size": 230641919,
+          "version": "3.43",
+          "date": "2026-10-30",
+          "downloadURL": "https://drive.google.com/file/d/1i2Zbu05EKSo3APwPdn269Rppiysb3ByT/view?usp=drive_link",
+          "size": 129650639,
           "localizedDescription": ""
         }
       ]
