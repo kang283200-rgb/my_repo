@@ -5,17 +5,24 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Goodnotes 7.1.38 업데이트",
+      "identifier": "news-goodnotes",
+      "caption": "goodnotes 7.1.38 버전 업데이트",
+      "date": "2026-11-24",
+      "tintColor": "#7BDCE8"
+    },
+    {
       "title": "Instagram 457.0.0 버전 업데이트",
       "identifier": "news-instagram",
       "caption": "Instagram 457.0.0 버전 업데이트",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "tintColor": "#CB7AAE"
     },
     {
       "title": "Wallcraft 3.44 업데이트",
       "identifier": "news-wallcraft",
       "caption": "wallcraft 3.44 버전 업데이트",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "tintColor": "#FFC027"
     },
     {
@@ -73,13 +80,6 @@
       "caption": "카카오버스 5.13.0 버전 업데이트",
       "date": "2026-11-11",
       "tintColor": "#FAE200"
-    },
-    {
-      "title": "Goodnotes 7.1.36 업데이트",
-      "identifier": "news-goodnotes",
-      "caption": "goodnotes 7.1.36 버전 업데이트",
-      "date": "2026-11-10",
-      "tintColor": "#7BDCE8"
     }
   ],
   "apps": [
@@ -530,6 +530,13 @@
       "iconURL": "https://i.imgur.com/TpWhB1Q.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "7.1.38",
+          "date": "2026-11-24",
+          "downloadURL": "https://drive.google.com/file/d/1RFnp9xMzFBivoF6M1k_SKepN2WkBnbcA/view?usp=drive_link",
+          "size": 505744616,
+          "localizedDescription": "BadNotes 0.3 적용"
+        },
         {
           "version": "7.1.36",
           "date": "2026-11-10",
