@@ -1,13 +1,8 @@
 import json
-import os
-import re
 import urllib.request
 import urllib.parse
 import urllib.error
 from datetime import datetime
-
-# Google Drive API 키
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 # JSON 파일 경로
 JSON_FILE = "repo.json"
@@ -16,54 +11,47 @@ JSON_FILE = "repo.json"
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 
-def extract_drive_file_id(download_url):
-    """Google Drive 다운로드 URL에서 파일 ID 추출"""
-
-    patterns = [
-        r"drive\.google\.com/file/d/([a-zA-Z0-9_-]+)",
-        r"drive\.google\.com/uc\?.*?[?&]id=([a-zA-Z0-9_-]+)",
-        r"drive\.google\.com/uc\?id=([a-zA-Z0-9_-]+)",
-        r"drive\.google\.com/open\?id=([a-zA-Z0-9_-]+)"
-    ]
-
-    for pattern in patterns:
-        match = re.search(pattern, download_url)
-
-        if match:
-            return match.group(1)
-
-    return None
-
-
-def get_google_drive_file_size(file_id):
-    """Google Drive API를 이용해 파일 크기를 바이트 단위로 조회"""
-
-    api_url = (
-        f"https://www.googleapis.com/drive/v3/files/{file_id}"
-        f"?fields=id,name,size&key={urllib.parse.quote(GOOGLE_API_KEY)}"
+def normalize_url(url):
+    """한글이나 공백이 포함된 URL을 안전하게 인코딩"""
+    parts = urllib.parse.urlsplit(url)
+    encoded_path = urllib.parse.quote(parts.path, safe="/%")
+    encoded_query = urllib.parse.quote(parts.query, safe="=&?/%")
+    return urllib.parse.urlunsplit(
+        (parts.scheme, parts.netloc, encoded_path, encoded_query, parts.fragment)
     )
 
-    req = urllib.request.Request(
-        api_url,
-        headers={"User-Agent": "Mozilla/5.0"}
-    )
 
-    with urllib.request.urlopen(req, timeout=30) as response:
-        file_data = json.loads(response.read().decode("utf-8"))
+def get_cloudflare_file_size(download_url):
+    """Cloudflare 직링크에서 파일 크기를 바이트 단위로 조회"""
+    safe_url = normalize_url(download_url)
+    headers = {"User-Agent": "Mozilla/5.0"}
 
-    if "size" not in file_data:
-        raise ValueError(
-            "API 응답에 파일 크기가 없습니다. 파일 접근 권한을 확인하세요."
-        )
+    # 1순위: HEAD 요청으로 Content-Length 확인
+    req = urllib.request.Request(safe_url, headers=headers, method="HEAD")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as response:
+            content_length = response.headers.get("Content-Length")
+            if content_length and int(content_length) > 0:
+                return int(content_length)
+    except urllib.error.HTTPError as e:
+        if e.code not in (403, 405):
+            raise
 
-    return int(file_data["size"])
+    # 2순위: HEAD가 차단되거나 길이가 없을 경우 1바이트 Range 요청으로 전체 크기 확인
+    range_headers = {**headers, "Range": "bytes=0-0"}
+    range_req = urllib.request.Request(safe_url, headers=range_headers, method="GET")
+    with urllib.request.urlopen(range_req, timeout=30) as response:
+        content_range = response.headers.get("Content-Range")
+        if content_range and "/" in content_range:
+            total_size = content_range.split("/")[-1].strip()
+            if total_size.isdigit() and int(total_size) > 0:
+                return int(total_size)
 
+        content_length = response.headers.get("Content-Length")
+        if content_length and int(content_length) > 0:
+            return int(content_length)
 
-# API 키 확인
-if not GOOGLE_API_KEY:
-    raise RuntimeError(
-        "GOOGLE_API_KEY 환경 변수가 설정되지 않았습니다."
-    )
+    raise ValueError("응답 헤더에서 파일 크기(Content-Length)를 확인할 수 없습니다.")
 
 
 # repo.json 파일 읽기
@@ -91,21 +79,19 @@ for app in data.get("apps", []):
             )
             continue
 
-        file_id = extract_drive_file_id(download_url)
-
-        if not file_id:
+        if not download_url.startswith(("http://", "https://")):
             print(
                 f"[{app_name} / {version_name}] "
-                "Google Drive 파일 ID를 추출할 수 없습니다."
+                "지원하지 않는 다운로드 URL 형식입니다."
             )
             continue
 
         try:
-            file_size = get_google_drive_file_size(file_id)
+            file_size = get_cloudflare_file_size(download_url)
 
             if file_size > 0:
                 version_info["size"] = file_size
-                
+
                 print(
                     f"[{app_name} / {version_name}] "
                     f"용량 업데이트 완료: {file_size:,} Bytes"
