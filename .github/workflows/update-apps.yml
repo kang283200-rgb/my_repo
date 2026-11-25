@@ -55,10 +55,8 @@ jobs:
 
           echo "필수 파일 확인 완료"
 
-      # 4. Google Drive 파일 크기 갱신
-      - name: Google Drive 파일 크기 갱신
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      # 4. Cloudflare 파일 크기 갱신
+      - name: Cloudflare 파일 크기 갱신
         run: python ./update_apps.py
 
       # 5. 변경 사항 커밋
