@@ -99,7 +99,8 @@
           "size": 161598258,
           "localizedDescription": "YTPlus 6.0"
         }
-      ]
+      ],
+      "size": 161598258
     },
     {
       "name": "YouTube (YTKace)",
@@ -117,7 +118,8 @@
           "size": 144691959,
           "localizedDescription": "YTKace 1.1.9"
         }
-      ]
+      ],
+      "size": 144691959
     },
     {
       "name": "YouTube Music",
@@ -135,7 +137,8 @@
           "size": 111106562,
           "localizedDescription": ""
         }
-      ]
+      ],
+      "size": 111106562
     },
     {
       "name": "SoundCloud",
@@ -153,7 +156,8 @@
           "size": 164248079,
           "localizedDescription": "NexaSC b5 적용"
         }
-      ]
+      ],
+      "size": 164248079
     },
     {
       "name": "Instagram",
@@ -174,7 +178,8 @@
           "size": 395963351,
           "localizedDescription": "Ryukgram 1.6.0/instagram 457.0.0"
         }
-      ]
+      ],
+      "size": 395963351
     },
     {
       "name": "Instagram",
@@ -195,7 +200,8 @@
           "size": 326244518,
           "localizedDescription": "Ryukgram 1.6.0/instagram 457.0.0"
         }
-      ]
+      ],
+      "size": 326244518
     },
     {
       "name": "Threads",
@@ -216,7 +222,8 @@
           "size": 131764892,
           "localizedDescription": "Threads 457.0.0 / ThreadPulse v1.31.1"
         }
-      ]
+      ],
+      "size": 131764892
     },
     {
       "name": "Threads",
@@ -237,7 +244,8 @@
           "size": 116156563,
           "localizedDescription": "Threads 457.0.0 / ThreadPulse v1.31.1"
         }
-      ]
+      ],
+      "size": 116156563
     },
     {
       "name": "카카오톡2",
@@ -255,7 +263,8 @@
           "size": 273506790,
           "localizedDescription": "멀티 카카오톡 26.10.1"
         }
-      ]
+      ],
+      "size": 273506790
     },
     {
       "name": "카카오버스",
@@ -273,7 +282,8 @@
           "size": 51731589,
           "localizedDescription": ""
         }
-      ]
+      ],
+      "size": 51731589
     },
     {
       "name": "네이버 카페",
@@ -291,7 +301,8 @@
           "size": 109946173,
           "localizedDescription": "< 적용된 트윅 >\n- 웹뷰 제거 0.1.2\n- 광고 제거 0.7.6"
         }
-      ]
+      ],
+      "size": 109946173
     },
     {
       "name": "Wallcraft",
@@ -309,7 +320,8 @@
           "size": 130057815,
           "localizedDescription": ""
         }
-      ]
+      ],
+      "size": 130057815
     },
     {
       "name": "Lightroom for iPhone",
@@ -327,7 +339,8 @@
           "size": 221784240,
           "localizedDescription": ""
         }
-      ]
+      ],
+      "size": 221784240
     },
     {
       "name": "Photomator",
@@ -345,7 +358,8 @@
           "size": 713040446,
           "localizedDescription": ""
         }
-      ]
+      ],
+      "size": 713040446
     },
     {
       "name": "Notability",
@@ -363,7 +377,8 @@
           "size": 302185244,
           "localizedDescription": "apple id 로그인 불가\n"
         }
-      ]
+      ],
+      "size": 302185244
     },
     {
       "name": "Goodnotes",
@@ -381,7 +396,8 @@
           "size": 484298005,
           "localizedDescription": "BadNotes 0.3 적용"
         }
-      ]
+      ],
+      "size": 484298005
     }
   ]
 }
