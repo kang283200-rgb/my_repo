@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - 'repo.json'
-      - 'update_apps.py'
       - '.github/workflows/update-apps.yml'
 
   workflow_dispatch:
