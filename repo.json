@@ -5,6 +5,13 @@
   "iconURL": "https://i.imgur.com/JjodWCZ.png",
   "news": [
     {
+      "title": "Notability 16.14.1 업데이트",
+      "identifier": "news-notability",
+      "caption": "Notability 16.14.1 버전 업데이트",
+      "date": "2026-11-25",
+      "tintColor": "#0189FF"
+    },
+    {
       "title": "Threads 457.0.0 버전 업데이트",
       "identifier": "news-threads",
       "caption": "Threads 457.0.0 버전 업데이트",
@@ -59,13 +66,6 @@
       "caption": "네이버카페 26.1026.5 버전 업데이트",
       "date": "2026-11-18",
       "tintColor": "#04C75C"
-    },
-    {
-      "title": "Notability 16.14 업데이트",
-      "identifier": "news-notability",
-      "caption": "Notability 16.14 버전 업데이트",
-      "date": "2026-11-17",
-      "tintColor": "#0189FF"
     },
     {
       "title": "SoundCloud 9.0.0 업데이트",
@@ -387,6 +387,13 @@
       "iconURL": "https://i.imgur.com/p1ArEhi.png",
       "tintColor": "#FFE812",
       "versions": [
+        {
+          "version": "16.14.1",
+          "date": "2026-11-25",
+          "downloadURL": "r2:Notability/Notability_v16.14.1.ipa",
+          "size": 302185244,
+          "localizedDescription": "apple id 로그인 불가\n"
+        },
         {
           "version": "16.14",
           "date": "2026-11-17",
