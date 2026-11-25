@@ -91,6 +91,9 @@
       "localizedDescription": "번들ID 수정한 버전이니 유료인증서로 사용시 번들ID를 com.google.ios.youtube으로 바꿔서 설치하시길 바랍니다.\n\n< 적용된 트윅 >\n- YTPlus 6.0\n- DonEatMyContent\n- YouGroupSettings\n- YTVideoOverlay\n- YTDislike\n- YouPiP\n- YTHoldForSpeed\n- YouMute\n- YouQuality\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://i.imgur.com/zq8WPvB.png"
+      ],
       "versions": [
         {
           "version": "21.47.6",
@@ -110,6 +113,12 @@
       "localizedDescription": "< 적용된 트윅 >\n- YTKace\n- YouGroupSettings\n- YTVideoOverlay\n- YouPiP\n- YTHoldForSpeed\n- YouMute\n- OpenYouTubeSafariExtension (설정→사파리→확장프로그램→OpenYoutube ON, 권한 허용으로 해야 작동합니다.)",
       "iconURL": "https://i.imgur.com/G0OGI5n.png",
       "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://i.imgur.com/kTINn0b.png"
+      ],
+      "screenshotURLs": [
+        "https://i.imgur.com/HHvZ2m7.png"
+      ],
       "versions": [
         {
           "version": "21.47.6",
@@ -129,6 +138,9 @@
       "localizedDescription": "설정 한글화 적용\n< 적용된 트윅 >\n- YTMusicUltimate 2.4.1+\n- ReturnYouTubeMusicDislikes\n- YTMABConfig",
       "iconURL": "https://i.imgur.com/YiU7XqB.png",
       "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://i.imgur.com/dV0dsjq.png"
+      ],
       "versions": [
         {
           "version": "9.47.2",
@@ -148,6 +160,9 @@
       "localizedDescription": "유료 인증서",
       "iconURL": "https://i.imgur.com/sHr48Ge.png",
       "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://i.imgur.com/ME8XPoD.png"
+      ],
       "versions": [
         {
           "version": "9.0.0",
@@ -168,7 +183,7 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "screenshotURLs": [
-        "https://i.imgur.com/QHIaJEZ.png"
+        "https://i.imgur.com/cu3QOaN.png"
       ],
       "versions": [
         {
@@ -190,7 +205,7 @@
       "iconURL": "https://i.imgur.com/5vNJ8pr.png",
       "tintColor": "#E1306C",
       "screenshotURLs": [
-        "https://i.imgur.com/QHIaJEZ.png"
+        "https://i.imgur.com/cu3QOaN.png"
       ],
       "versions": [
         {
@@ -212,7 +227,7 @@
       "iconURL": "https://i.imgur.com/bwulNZC.png",
       "tintColor": "#E1306C",
       "screenshotURLs": [
-        "https://i.imgur.com/zCIn9Mh.png"
+        "https://i.imgur.com/9tEYcSn.png"
       ],
       "versions": [
         {
@@ -234,7 +249,7 @@
       "iconURL": "https://i.imgur.com/bwulNZC.png",
       "tintColor": "#E1306C",
       "screenshotURLs": [
-        "https://i.imgur.com/zCIn9Mh.png"
+        "https://i.imgur.com/9tEYcSn.png"
       ],
       "versions": [
         {
