@@ -286,6 +286,11 @@
       "localizedDescription": "광고제거, 다크모드를 적용한 카카오버스입니다.",
       "iconURL": "https://i.imgur.com/WWElP9t.png",
       "tintColor": "#FFE812",
+      "screenshotURLs": [
+        "https://i.imgur.com/DfQdYf8.png",
+        "https://i.imgur.com/z05GIwD.png",
+        "https://i.imgur.com/QpVXNkw.png"
+      ],
       "versions": [
         {
           "version": "5.13.0",
