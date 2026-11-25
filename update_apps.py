@@ -108,6 +108,10 @@ for app in data.get("apps", []):
                 f"조회 실패: {e}"
             )
 
+    # 최신 버전(versions[0])의 용량을 최상위 app["size"]에도 반영
+    if versions and isinstance(versions[0].get("size"), int) and versions[0]["size"] > 0:
+        app["size"] = versions[0]["size"]
+
 
 # 변경된 JSON 저장
 with open(JSON_FILE, "w", encoding="utf-8") as f:
