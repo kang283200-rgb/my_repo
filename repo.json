@@ -256,6 +256,7 @@
     {
       "name": "카카오톡2",
       "bundleIdentifier": "com.iwilab.KakaoTalk2",
+      "webDownload": false,
       "developerName": "Kakao Corp.",
       "subtitle": "순정 멀티 카카오톡",
       "localizedDescription": "",
